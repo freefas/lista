@@ -1,0 +1,2305 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV CABUGI - FHD
+http://x90.live:80/deivison67/sousa67/83132
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RJ - FHD
+http://x90.live:80/deivison67/sousa67/83006
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO SP - FHD
+http://x90.live:80/deivison67/sousa67/83013
+#EXTINF:0 tvg-id="ext" group-title="4k",VIVA 4K H265
+http://x90.live:80/deivison67/sousa67/99900
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",VIVA - FHD
+http://x90.live:80/deivison67/sousa67/28146
+#EXTINF:0 tvg-id="ext" group-title="4k",SBT - 4K
+http://x90.live:80/deivison67/sousa67/54298
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT - FHD
+http://x90.live:80/deivison67/sousa67/83669
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",REDE TV - FHD
+http://x90.live:80/deivison67/sousa67/143927
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SP - FHD
+http://x90.live:80/deivison67/sousa67/82875
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND SP - FHD
+http://x90.live:80/deivison67/sousa67/103675
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="RELIGIOSOS",TV APARECIDA
+http://x90.live:80/deivison67/sousa67/8162
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV DIARIO - FHD
+http://x90.live:80/deivison67/sousa67/130540
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV GAZETA - FHD
+http://x90.live:80/deivison67/sousa67/83681
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",COMBATE - FHD
+http://x90.live:80/deivison67/sousa67/82835
+#EXTINF:0 tvg-id="ext" group-title="4k",SPORTV - 4K h265
+http://x90.live:80/deivison67/sousa67/28274
+#EXTINF:0 tvg-id="ext" group-title="4k",ESPN - 4K
+http://x90.live:80/deivison67/sousa67/99911
+
+#EXTINF:0 tvg-id="ext" group-title="4k",ANIMAL PLANET - 4K H265
+http://x90.live:80/deivison67/sousa67/99901
+#EXTINF:0 tvg-id="ext" group-title="4k",BAND SP - 4K  H265 ²
+http://x90.live:80/deivison67/sousa67/53891
+#EXTINF:0 tvg-id="ext" group-title="4k",CARTOON - 4K
+http://x90.live:80/deivison67/sousa67/99904
+#EXTINF:0 tvg-id="ext" group-title="4k",CARTOON NETWORK - 4K
+http://x90.live:80/deivison67/sousa67/72585
+#EXTINF:0 tvg-id="ext" group-title="4k",COMBATE - 4k ²
+http://x90.live:80/deivison67/sousa67/53417
+#EXTINF:0 tvg-id="ext" group-title="4k",DISC CHANNEL 4K H265
+http://x90.live:80/deivison67/sousa67/99899
+#EXTINF:0 tvg-id="ext" group-title="4k",DISC TURBO 4K H265
+http://x90.live:80/deivison67/sousa67/99903
+#EXTINF:0 tvg-id="ext" group-title="4k",DISCOVERY CHANNEL - 4K ²
+http://x90.live:80/deivison67/sousa67/53894
+#EXTINF:0 tvg-id="ext" group-title="4k",ESPN  2 - 4K
+http://x90.live:80/deivison67/sousa67/72581
+#EXTINF:0 tvg-id="ext" group-title="4k",FOX SPORTS 2 - 4K
+http://x90.live:80/deivison67/sousa67/72584
+#EXTINF:0 tvg-id="ext" group-title="4k",GLOBO - 4K H265
+http://x90.live:80/deivison67/sousa67/83140
+#EXTINF:0 tvg-id="ext" group-title="4k",GLOBO NEWS - 4K H265
+http://x90.live:80/deivison67/sousa67/99892
+#EXTINF:0 tvg-id="ext" group-title="4k",GLOBO SP - 4K H265 ²
+http://x90.live:80/deivison67/sousa67/53599
+#EXTINF:0 tvg-id="ext" group-title="4k",GLOBO SP 4K H265
+http://x90.live:80/deivison67/sousa67/99889
+#EXTINF:0 tvg-id="ext" group-title="4k",MEGAPIX - 4k ²
+http://x90.live:80/deivison67/sousa67/56562
+#EXTINF:0 tvg-id="ext" group-title="4k",MULTISHOW - 4K
+http://x90.live:80/deivison67/sousa67/72579
+#EXTINF:0 tvg-id="ext" group-title="4k",NATGEO 4K
+http://x90.live:80/deivison67/sousa67/72583
+#EXTINF:0 tvg-id="ext" group-title="4k",PFC CLUBES 4K H265
+http://x90.live:80/deivison67/sousa67/99896
+#EXTINF:0 tvg-id="ext" group-title="4k",PREMIER - 4K ²
+http://x90.live:80/deivison67/sousa67/53895
+#EXTINF:0 tvg-id="ext" group-title="4k",RECORD SP - 4K ²
+http://x90.live:80/deivison67/sousa67/53892
+#EXTINF:0 tvg-id="ext" group-title="4k",RECORDTV SP 4K H265
+http://x90.live:80/deivison67/sousa67/99894
+#EXTINF:0 tvg-id="ext" group-title="4k",SPACE - 4K
+http://x90.live:80/deivison67/sousa67/72580
+#EXTINF:0 tvg-id="ext" group-title="4k",SPORTV - 4K h265
+http://x90.live:80/deivison67/sousa67/28274
+#EXTINF:0 tvg-id="ext" group-title="4k",SPORTV 4K H265
+http://x90.live:80/deivison67/sousa67/99895
+#EXTINF:0 tvg-id="ext" group-title="4k",Star Channel - 4K
+http://x90.live:80/deivison67/sousa67/99905
+#EXTINF:0 tvg-id="ext" group-title="4k",TC PIPOCA - 4K
+http://x90.live:80/deivison67/sousa67/99909
+#EXTINF:0 tvg-id="ext" group-title="4k",TC PREMIUM - 4k
+http://x90.live:80/deivison67/sousa67/99910
+#EXTINF:0 tvg-id="ext" group-title="4k",TNT SERIES - 4K
+http://x90.live:80/deivison67/sousa67/72582
+#EXTINF:0 tvg-id="ext" group-title="4k",UNIVERSAL - 4K H265
+http://x90.live:80/deivison67/sousa67/99907
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",A&E - FHD
+http://x90.live:80/deivison67/sousa67/83514
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",A&E - HD
+http://x90.live:80/deivison67/sousa67/83512
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",A&E - HD²
+http://x90.live:80/deivison67/sousa67/83513
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",A&E - SD
+http://x90.live:80/deivison67/sousa67/83510
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",A&E - SD²
+http://x90.live:80/deivison67/sousa67/83511
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AMC - FHD
+http://x90.live:80/deivison67/sousa67/83519
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AMC - HD
+http://x90.live:80/deivison67/sousa67/83517
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AMC - HD²
+http://x90.live:80/deivison67/sousa67/83518
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AMC - SD
+http://x90.live:80/deivison67/sousa67/83515
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AMC - SD²
+http://x90.live:80/deivison67/sousa67/83516
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AXN - FHD
+http://x90.live:80/deivison67/sousa67/83524
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AXN - HD
+http://x90.live:80/deivison67/sousa67/83522
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AXN - HD²
+http://x90.live:80/deivison67/sousa67/83523
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AXN - SD
+http://x90.live:80/deivison67/sousa67/83520
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",AXN - SD²
+http://x90.live:80/deivison67/sousa67/83521
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CANAL SONY - FHD
+http://x90.live:80/deivison67/sousa67/83527
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CANAL SONY - FHD²
+http://x90.live:80/deivison67/sousa67/83528
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CANAL SONY - HD
+http://x90.live:80/deivison67/sousa67/83526
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CANAL SONY - SD
+http://x90.live:80/deivison67/sousa67/83525
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CINEMAX - FHD
+http://x90.live:80/deivison67/sousa67/83532
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CINEMAX - HD
+http://x90.live:80/deivison67/sousa67/83530
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CINEMAX - HD ²
+http://x90.live:80/deivison67/sousa67/83531
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CINEMAX - SD
+http://x90.live:80/deivison67/sousa67/83529
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FX - FHD
+http://x90.live:80/deivison67/sousa67/83536
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FX - HD
+http://x90.live:80/deivison67/sousa67/83535
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FX - HD²
+http://x90.live:80/deivison67/sousa67/83534
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FX - SD
+http://x90.live:80/deivison67/sousa67/83533
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",MEGAPIX - FHD
+http://x90.live:80/deivison67/sousa67/103679
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",MEGAPIX - FHD ²
+http://x90.live:80/deivison67/sousa67/12995
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",MEGAPIX - HD
+http://x90.live:80/deivison67/sousa67/103677
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",MEGAPIX - HD²
+http://x90.live:80/deivison67/sousa67/103678
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",MEGAPIX - SD
+http://x90.live:80/deivison67/sousa67/103676
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",PARAMOUNT CHANNEL - FHD
+http://x90.live:80/deivison67/sousa67/83575
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",PARAMOUNT CHANNEL - FHD²
+http://x90.live:80/deivison67/sousa67/83576
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",PARAMOUNT CHANNEL - HD
+http://x90.live:80/deivison67/sousa67/83573
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",PARAMOUNT CHANNEL - HD²
+http://x90.live:80/deivison67/sousa67/83574
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",PARAMOUNT CHANNEL - SD
+http://x90.live:80/deivison67/sousa67/83571
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",PARAMOUNT CHANNEL - SD²
+http://x90.live:80/deivison67/sousa67/83572
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",SPACE - FHD
+http://x90.live:80/deivison67/sousa67/83580
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",SPACE - FHD²
+http://x90.live:80/deivison67/sousa67/83581
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",SPACE - HD
+http://x90.live:80/deivison67/sousa67/83578
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",SPACE - HD²
+http://x90.live:80/deivison67/sousa67/83579
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",SPACE - SD
+http://x90.live:80/deivison67/sousa67/83577
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Star Channel - FHD
+http://x90.live:80/deivison67/sousa67/83539
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Star Channel - FHD²
+http://x90.live:80/deivison67/sousa67/83540
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Star Channel - HD
+http://x90.live:80/deivison67/sousa67/83538
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Star Channel - SD
+http://x90.live:80/deivison67/sousa67/83537
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",STUDIO UNIVERSAL - FHD
+http://x90.live:80/deivison67/sousa67/83585
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",STUDIO UNIVERSAL - FHD²
+http://x90.live:80/deivison67/sousa67/83586
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",STUDIO UNIVERSAL - HD
+http://x90.live:80/deivison67/sousa67/83584
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",STUDIO UNIVERSAL - SD
+http://x90.live:80/deivison67/sousa67/83582
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",STUDIO UNIVERSAL - SD²
+http://x90.live:80/deivison67/sousa67/83583
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TCM - HD²
+http://x90.live:80/deivison67/sousa67/83595
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TCM - SD²
+http://x90.live:80/deivison67/sousa67/83594
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT - FHD
+http://x90.live:80/deivison67/sousa67/83589
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT - FHD²
+http://x90.live:80/deivison67/sousa67/88861
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT - HD
+http://x90.live:80/deivison67/sousa67/83588
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT - HD²
+http://x90.live:80/deivison67/sousa67/88880
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT - SD
+http://x90.live:80/deivison67/sousa67/83587
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT - SD²
+http://x90.live:80/deivison67/sousa67/88879
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT SERIES - FHD
+http://x90.live:80/deivison67/sousa67/83593
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT SERIES - HD
+http://x90.live:80/deivison67/sousa67/83591
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT SERIES - HD²
+http://x90.live:80/deivison67/sousa67/83592
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",TNT SERIES - SD
+http://x90.live:80/deivison67/sousa67/83590
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",UNIVERSAL CHANNEL - FHD
+http://x90.live:80/deivison67/sousa67/83599
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",UNIVERSAL CHANNEL - SD
+http://x90.live:80/deivison67/sousa67/83596
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",UNIVERSAL CHANNEL -HD
+http://x90.live:80/deivison67/sousa67/83597
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",UNIVERSAL CHANNEL -HD²
+http://x90.live:80/deivison67/sousa67/83598
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",WARNER CHANNEL - FHD
+http://x90.live:80/deivison67/sousa67/83603
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",WARNER CHANNEL - FHD H265
+http://x90.live:80/deivison67/sousa67/154313
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",WARNER CHANNEL - HD
+http://x90.live:80/deivison67/sousa67/83601
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",WARNER CHANNEL - HD²
+http://x90.live:80/deivison67/sousa67/83602
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",WARNER CHANNEL - SD
+http://x90.live:80/deivison67/sousa67/83600
+
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",ANIMAL  PLANET - FHD
+http://x90.live:80/deivison67/sousa67/82903
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",ANIMAL PLANET - FHD²
+http://x90.live:80/deivison67/sousa67/82904
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",ANIMAL PLANET - HD
+http://x90.live:80/deivison67/sousa67/82901
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",ANIMAL PLANET - HD²
+http://x90.live:80/deivison67/sousa67/82902
+#EXTINF:0 tvg-id="animal_rus" group-title="DOCUMENTÁRIOS",ANIMAL PLANET - SD
+http://x90.live:80/deivison67/sousa67/82899
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",ANIMAL PLANET - SD²
+http://x90.live:80/deivison67/sousa67/82900
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL - FHD
+http://x90.live:80/deivison67/sousa67/82909
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL - HD
+http://x90.live:80/deivison67/sousa67/82907
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL - HD²
+http://x90.live:80/deivison67/sousa67/82908
+#EXTINF:0 tvg-id="discov_rus" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL - SD
+http://x90.live:80/deivison67/sousa67/82905
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL - SD²
+http://x90.live:80/deivison67/sousa67/82906
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALT - SD²
+http://x90.live:80/deivison67/sousa67/82915
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH - FHD
+http://x90.live:80/deivison67/sousa67/82917
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH - HD
+http://x90.live:80/deivison67/sousa67/82916
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH - SD
+http://x90.live:80/deivison67/sousa67/82914
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE - FHD
+http://x90.live:80/deivison67/sousa67/82928
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE - HD
+http://x90.live:80/deivison67/sousa67/82927
+#EXTINF:0 tvg-id="discov_sci" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE - SD
+http://x90.live:80/deivison67/sousa67/82926
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER - FHD
+http://x90.live:80/deivison67/sousa67/82920
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER - HD
+http://x90.live:80/deivison67/sousa67/82919
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER - SD
+http://x90.live:80/deivison67/sousa67/82918
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO - FHD
+http://x90.live:80/deivison67/sousa67/82924
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO - FHD²
+http://x90.live:80/deivison67/sousa67/82925
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO - HD
+http://x90.live:80/deivison67/sousa67/82922
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO - HD²
+http://x90.live:80/deivison67/sousa67/82923
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO - SD
+http://x90.live:80/deivison67/sousa67/82921
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD - FHD
+http://x90.live:80/deivison67/sousa67/82931
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD - HD
+http://x90.live:80/deivison67/sousa67/82930
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD - SD
+http://x90.live:80/deivison67/sousa67/82929
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",H2 - FHD
+http://x90.live:80/deivison67/sousa67/82941
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",H2 - HD
+http://x90.live:80/deivison67/sousa67/82940
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",H2 - HD²
+http://x90.live:80/deivison67/sousa67/82939
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",H2 - SD
+http://x90.live:80/deivison67/sousa67/82937
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",H2 - SD²
+http://x90.live:80/deivison67/sousa67/82938
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HGTV - FHD
+http://x90.live:80/deivison67/sousa67/82913
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HGTV - FHD ²
+http://x90.live:80/deivison67/sousa67/88878
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HGTV - HD
+http://x90.live:80/deivison67/sousa67/82912
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HGTV - SD
+http://x90.live:80/deivison67/sousa67/82910
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HGTV - SD²
+http://x90.live:80/deivison67/sousa67/82911
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HGTV -HD ²
+http://x90.live:80/deivison67/sousa67/88877
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HISTORY - FHD
+http://x90.live:80/deivison67/sousa67/82936
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HISTORY - HD
+http://x90.live:80/deivison67/sousa67/82934
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HISTORY - HD²
+http://x90.live:80/deivison67/sousa67/82935
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HISTORY - SD
+http://x90.live:80/deivison67/sousa67/82932
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",HISTORY - SD²
+http://x90.live:80/deivison67/sousa67/82933
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY - FHD
+http://x90.live:80/deivison67/sousa67/82945
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY - HD
+http://x90.live:80/deivison67/sousa67/82943
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY - HD²
+http://x90.live:80/deivison67/sousa67/82944
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY - SD
+http://x90.live:80/deivison67/sousa67/82942
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",NAT GEO - FHD
+http://x90.live:80/deivison67/sousa67/82949
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",NAT GEO - HD
+http://x90.live:80/deivison67/sousa67/82947
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",NAT GEO - HD²
+http://x90.live:80/deivison67/sousa67/82948
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",NAT GEO - SD
+http://x90.live:80/deivison67/sousa67/82946
+#EXTINF:0 tvg-id="tlc-russia" group-title="DOCUMENTÁRIOS",TLC - FHD
+http://x90.live:80/deivison67/sousa67/82958
+#EXTINF:0 tvg-id="tlc-russia" group-title="DOCUMENTÁRIOS",TLC - HD
+http://x90.live:80/deivison67/sousa67/82956
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTÁRIOS",TLC - HD²
+http://x90.live:80/deivison67/sousa67/82957
+#EXTINF:0 tvg-id="tlc-russia" group-title="DOCUMENTÁRIOS",TLC - SD
+http://x90.live:80/deivison67/sousa67/82955
+
+#EXTINF:0 tvg-id="ext" group-title="Full HD",ARTE 1 - FHD
+http://x90.live:80/deivison67/sousa67/28246
+#EXTINF:0 tvg-id="ext" group-title="Full HD",ARTE 1 - FHD ²
+http://x90.live:80/deivison67/sousa67/12953
+#EXTINF:0 tvg-id="ext" group-title="Full HD",BIS - FHD
+http://x90.live:80/deivison67/sousa67/28176
+#EXTINF:0 tvg-id="ext" group-title="Full HD",CANAL BRASIL - FHD²
+http://x90.live:80/deivison67/sousa67/28144
+#EXTINF:0 tvg-id="ext" group-title="Full HD",COMEDY CENTRAL - FHD
+http://x90.live:80/deivison67/sousa67/28238
+#EXTINF:0 tvg-id="ext" group-title="Full HD",CURTA! - FHD
+http://x90.live:80/deivison67/sousa67/28237
+#EXTINF:0 tvg-id="ext" group-title="Full HD",FOOD NETWORK - FHD
+http://x90.live:80/deivison67/sousa67/28225
+#EXTINF:0 tvg-id="ext" group-title="Full HD",GLOBO TV GAZETA VITÓRIA - FHD
+http://x90.live:80/deivison67/sousa67/28253
+#EXTINF:0 tvg-id="ext" group-title="Full HD",HBO SIGNATURE - FHD ²
+http://x90.live:80/deivison67/sousa67/12875
+#EXTINF:0 tvg-id="ext" group-title="Full HD",LIFETIME - FHD
+http://x90.live:80/deivison67/sousa67/28211
+#EXTINF:0 tvg-id="ext" group-title="Full HD",LIFETIME - FHD ²
+http://x90.live:80/deivison67/sousa67/13003
+#EXTINF:0 tvg-id="ext" group-title="Full HD",MTV - FHD
+http://x90.live:80/deivison67/sousa67/28206
+#EXTINF:0 tvg-id="ext" group-title="Full HD",MTV LIVE - FHD
+http://x90.live:80/deivison67/sousa67/28205
+#EXTINF:0 tvg-id="ext" group-title="Full HD",NICK JR - FHD ²
+http://x90.live:80/deivison67/sousa67/12980
+#EXTINF:0 tvg-id="ext" group-title="Full HD",PRIME BOX BRASIL - FHD
+http://x90.live:80/deivison67/sousa67/28195
+#EXTINF:0 tvg-id="ext" group-title="Full HD",SMITHSONIAN CHANNEL - FHD
+http://x90.live:80/deivison67/sousa67/49197
+#EXTINF:0 tvg-id="ext" group-title="Full HD",SYFY - FHD
+http://x90.live:80/deivison67/sousa67/28191
+#EXTINF:0 tvg-id="ext" group-title="Full HD",TBS - FHD
+http://x90.live:80/deivison67/sousa67/28190
+#EXTINF:0 tvg-id="ext" group-title="Full HD",VH1 MEGA HITS - FHD
+http://x90.live:80/deivison67/sousa67/28182
+#EXTINF:0 tvg-id="ext" group-title="Full HD",WOOHOO - FHD
+http://x90.live:80/deivison67/sousa67/28180
+
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",ARTE 1 - HD
+http://x90.live:80/deivison67/sousa67/8152
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",ARTE 1 - SD
+http://x90.live:80/deivison67/sousa67/88698
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",BIS - HD
+http://x90.live:80/deivison67/sousa67/8235
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",BIS - SD
+http://x90.live:80/deivison67/sousa67/8146
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",BIS - SD²
+http://x90.live:80/deivison67/sousa67/51989
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",COMEDY CENTRAL - HD
+http://x90.live:80/deivison67/sousa67/88694
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",COMEDY CENTRAL - HD²
+http://x90.live:80/deivison67/sousa67/88695
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",COMEDY CENTRAL - SD
+http://x90.live:80/deivison67/sousa67/88693
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",COMEDY CENTRAL - SD ²
+http://x90.live:80/deivison67/sousa67/51981
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",CURTA! - HD
+http://x90.live:80/deivison67/sousa67/88745
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",CURTA! - SD
+http://x90.live:80/deivison67/sousa67/88744
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",DOG TV - FHD ²
+http://x90.live:80/deivison67/sousa67/47681
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",DOG TV - HD ²
+http://x90.live:80/deivison67/sousa67/47680
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",E! - FHD
+http://x90.live:80/deivison67/sousa67/88705
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",E! - FHD ²
+http://x90.live:80/deivison67/sousa67/93978
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",E! - HD
+http://x90.live:80/deivison67/sousa67/88706
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",E! - HD²
+http://x90.live:80/deivison67/sousa67/93975
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",E! - SD
+http://x90.live:80/deivison67/sousa67/88707
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",Fashion TV - HD
+http://x90.live:80/deivison67/sousa67/142063
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",FOOD NETWORK - FHD ²
+http://x90.live:80/deivison67/sousa67/13060
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",FOOD NETWORK - HD
+http://x90.live:80/deivison67/sousa67/88746
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",FOOD NETWORK - SD
+http://x90.live:80/deivison67/sousa67/88747
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",GNT - FHD
+http://x90.live:80/deivison67/sousa67/88704
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",GNT - HD
+http://x90.live:80/deivison67/sousa67/88703
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",GNT - SD
+http://x90.live:80/deivison67/sousa67/88702
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",GNT - SD ²
+http://x90.live:80/deivison67/sousa67/51952
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",LIFETIME - HD
+http://x90.live:80/deivison67/sousa67/88749
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",LIFETIME - HD ²
+http://x90.live:80/deivison67/sousa67/88748
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",LIFETIME - SD
+http://x90.live:80/deivison67/sousa67/88750
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",LOADING - HD
+http://x90.live:80/deivison67/sousa67/103979
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",LOADING - SD
+http://x90.live:80/deivison67/sousa67/103978
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MODO VIAGEM - FHD
+http://x90.live:80/deivison67/sousa67/1385247
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MODO VIAGEM - HD
+http://x90.live:80/deivison67/sousa67/1385246
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MODO VIAGEM - SD
+http://x90.live:80/deivison67/sousa67/1385245
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MTV - HD
+http://x90.live:80/deivison67/sousa67/88752
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MTV - HD²
+http://x90.live:80/deivison67/sousa67/88751
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MTV - SD
+http://x90.live:80/deivison67/sousa67/88743
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MTV LIVE - FHD
+http://x90.live:80/deivison67/sousa67/88742
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MTV LIVE - HD
+http://x90.live:80/deivison67/sousa67/88753
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MULTISHOW - FHD
+http://x90.live:80/deivison67/sousa67/88740
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MULTISHOW - HD
+http://x90.live:80/deivison67/sousa67/88700
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MULTISHOW - HD ²
+http://x90.live:80/deivison67/sousa67/12990
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MULTISHOW - SD
+http://x90.live:80/deivison67/sousa67/88699
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MULTISHOW - SD²
+http://x90.live:80/deivison67/sousa67/88741
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MUSIC BOX BRASIL - HD
+http://x90.live:80/deivison67/sousa67/8047
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",MUSIC BOX BRASIL - SD
+http://x90.live:80/deivison67/sousa67/8048
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",NHK WORLD ²
+http://x90.live:80/deivison67/sousa67/12982
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",PRIME BOX - SD ²
+http://x90.live:80/deivison67/sousa67/51960
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",PRIME BOX BRASIL - HD
+http://x90.live:80/deivison67/sousa67/8026
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",PRIME BOX BRASIL - SD
+http://x90.live:80/deivison67/sousa67/8027
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",RIT SD ²
+http://x90.live:80/deivison67/sousa67/53016
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",SIC SD ²
+http://x90.live:80/deivison67/sousa67/53022
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",SMITHSONIAN CHANNEL - HD
+http://x90.live:80/deivison67/sousa67/49198
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",SYFY - HD
+http://x90.live:80/deivison67/sousa67/8177
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",SYFY - HD ²
+http://x90.live:80/deivison67/sousa67/12946
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",SYFY - SD
+http://x90.live:80/deivison67/sousa67/8014
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",SYFY - SD ²
+http://x90.live:80/deivison67/sousa67/53020
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",TBS - HD
+http://x90.live:80/deivison67/sousa67/8005
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",TBS - HD
+http://x90.live:80/deivison67/sousa67/53019
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",TBS - HD ²
+http://x90.live:80/deivison67/sousa67/12945
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",TBS - SD
+http://x90.live:80/deivison67/sousa67/8006
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",TRAVEL BOX BRAZIL - HD
+http://x90.live:80/deivison67/sousa67/54993
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",TRUTV - HD
+http://x90.live:80/deivison67/sousa67/7983
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",TRUTV - SD
+http://x90.live:80/deivison67/sousa67/7984
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",TV JUSTICA - SD
+http://x90.live:80/deivison67/sousa67/1385767
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",VH1 - HD
+http://x90.live:80/deivison67/sousa67/7981
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",VIVA - HD
+http://x90.live:80/deivison67/sousa67/88697
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",VIVA - SD
+http://x90.live:80/deivison67/sousa67/88696
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",WOOHOO - FHD
+http://x90.live:80/deivison67/sousa67/7977
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES E MUSICAIS",WOOHOO - SD
+http://x90.live:80/deivison67/sousa67/8157
+
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",AXN - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867905
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",Canal Sony - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867906
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",CINEMAX  - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/73918
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",DISCOVERY CHANNEL - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/73917
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",FX - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/73914
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",HBO  MAX - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867893
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",HBO - HD [LEG]
+http://x90.live:80/deivison67/sousa67/73916
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",HBO MUNDI - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/73909
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",HBO Pop - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867894
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",HBO Signature - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867895
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",HBO XTREME - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/73896
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",ID - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/73895
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",MEGAPIX - HD [LEG]
+http://x90.live:80/deivison67/sousa67/73894
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",Space - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867896
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",Star Channel - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867897
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE ACTION - HD [LEG]
+http://x90.live:80/deivison67/sousa67/73910
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",Telecine Cult - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867898
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",Telecine Fun - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867899
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",Telecine Pipoca - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867900
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE PREMIUM - HD [LEG]
+http://x90.live:80/deivison67/sousa67/73904
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TELECINE PREMIUM SD - [LEG]
+http://x90.live:80/deivison67/sousa67/73903
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",Telecine Touch - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867901
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TNT HD - [LEG]
+http://x90.live:80/deivison67/sousa67/13867902
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",TNT Series - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867903
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",Warner Channel - FHD [LEG]
+http://x90.live:80/deivison67/sousa67/13867904
+#EXTINF:0 tvg-id="ext" group-title="LEGENDADOS",WARNER HD - [LEG]
+http://x90.live:80/deivison67/sousa67/73888
+
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",BABY TV - HD
+http://x90.live:80/deivison67/sousa67/83438
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",BABY TV - SD
+http://x90.live:80/deivison67/sousa67/83439
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",CARTOON NETWORK - FHD
+http://x90.live:80/deivison67/sousa67/83445
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",CARTOON NETWORK - FHD ²
+http://x90.live:80/deivison67/sousa67/13084
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",CARTOON NETWORK - HD
+http://x90.live:80/deivison67/sousa67/83444
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",CARTOON NETWORK - SD
+http://x90.live:80/deivison67/sousa67/83443
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",CARTOONITO - FHD
+http://x90.live:80/deivison67/sousa67/28242
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",CARTOONITO - HD
+http://x90.live:80/deivison67/sousa67/83441
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",CARTOONITO - HD
+http://x90.live:80/deivison67/sousa67/139719
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",CARTOONITO - SD
+http://x90.live:80/deivison67/sousa67/83440
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISCOVERY KIDS - FHD
+http://x90.live:80/deivison67/sousa67/83453
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISCOVERY KIDS - HD
+http://x90.live:80/deivison67/sousa67/83451
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISCOVERY KIDS - HD  ²
+http://x90.live:80/deivison67/sousa67/83452
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISCOVERY KIDS - SD
+http://x90.live:80/deivison67/sousa67/83449
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISCOVERY KIDS - SD ²
+http://x90.live:80/deivison67/sousa67/83450
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISNEY CHANNEL - FHD
+http://x90.live:80/deivison67/sousa67/83447
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISNEY CHANNEL - FHD ²
+http://x90.live:80/deivison67/sousa67/83448
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISNEY CHANNEL - HD
+http://x90.live:80/deivison67/sousa67/83446
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",DISNEY CHANNEL - SD
+http://x90.live:80/deivison67/sousa67/83454
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOB - FHD
+http://x90.live:80/deivison67/sousa67/83466
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOB - HD
+http://x90.live:80/deivison67/sousa67/83464
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOB - HD ²
+http://x90.live:80/deivison67/sousa67/83465
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOB - SD
+http://x90.live:80/deivison67/sousa67/83462
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOB - SD ²
+http://x90.live:80/deivison67/sousa67/83463
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOBINHO - FHD
+http://x90.live:80/deivison67/sousa67/83469
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOBINHO - HD
+http://x90.live:80/deivison67/sousa67/83468
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOBINHO - HD²
+http://x90.live:80/deivison67/sousa67/115783
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GLOOBINHO - SD
+http://x90.live:80/deivison67/sousa67/83467
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICK JR - FHD
+http://x90.live:80/deivison67/sousa67/83477
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICK JR - HD
+http://x90.live:80/deivison67/sousa67/83475
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICK JR - HD ²
+http://x90.live:80/deivison67/sousa67/83476
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICK JR - SD
+http://x90.live:80/deivison67/sousa67/83474
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICKELODEON - FHD
+http://x90.live:80/deivison67/sousa67/83480
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICKELODEON - HD
+http://x90.live:80/deivison67/sousa67/83479
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",NICKELODEON - SD
+http://x90.live:80/deivison67/sousa67/83478
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",TOONCAST - HD
+http://x90.live:80/deivison67/sousa67/1385361
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",TOONCAST - SD
+http://x90.live:80/deivison67/sousa67/83484
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",TV RA TIM BUM - FHD
+http://x90.live:80/deivison67/sousa67/83487
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",TV RA-TIM-BUM - HD
+http://x90.live:80/deivison67/sousa67/83486
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",TV RA-TIM-BUM - SD
+http://x90.live:80/deivison67/sousa67/83485
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",ZOOMOO - FHD
+http://x90.live:80/deivison67/sousa67/150692
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",ZOOMOO - HD
+http://x90.live:80/deivison67/sousa67/150693
+
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND - SD²
+http://x90.live:80/deivison67/sousa67/103672
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND CAMPINAS - FHD
+http://x90.live:80/deivison67/sousa67/131747
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND CURITIBA - FHD
+http://x90.live:80/deivison67/sousa67/1385770
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND RJ - HD
+http://x90.live:80/deivison67/sousa67/1385237
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND RS - HD
+http://x90.live:80/deivison67/sousa67/13869354
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND SERGIPE - HD
+http://x90.live:80/deivison67/sousa67/1385405
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND SP - HD
+http://x90.live:80/deivison67/sousa67/103674
+#EXTINF:0 tvg-id="ext" group-title="BAND",BAND SP - SD
+http://x90.live:80/deivison67/sousa67/103673
+
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",BAND NEWS - FHD
+http://x90.live:80/deivison67/sousa67/83085
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",BAND NEWS - FHD²
+http://x90.live:80/deivison67/sousa67/83086
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",BAND NEWS - HD
+http://x90.live:80/deivison67/sousa67/83083
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",BAND NEWS - HD²
+http://x90.live:80/deivison67/sousa67/83084
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",BAND NEWS - SD
+http://x90.live:80/deivison67/sousa67/83082
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",CNN BRASIL - FHD
+http://x90.live:80/deivison67/sousa67/98281
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",CNN BRASIL - FHD²
+http://x90.live:80/deivison67/sousa67/98280
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",CNN BRASIL - HD
+http://x90.live:80/deivison67/sousa67/83090
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",CNN BRASIL - HD²
+http://x90.live:80/deivison67/sousa67/98278
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",CNN BRASIL - SD
+http://x90.live:80/deivison67/sousa67/83089
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",CNN BRASIL - SD²
+http://x90.live:80/deivison67/sousa67/98279
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",CNN INTERNACIONAL - SD
+http://x90.live:80/deivison67/sousa67/83654
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",GLOBO NEWS - FHD
+http://x90.live:80/deivison67/sousa67/83094
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",GLOBO NEWS - HD
+http://x90.live:80/deivison67/sousa67/83092
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",GLOBO NEWS - HD²
+http://x90.live:80/deivison67/sousa67/83093
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",GLOBO NEWS - SD
+http://x90.live:80/deivison67/sousa67/83091
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",JOVEM PAN NEWS - FHD
+http://x90.live:80/deivison67/sousa67/138098
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",JOVEM PAN NEWS - HD
+http://x90.live:80/deivison67/sousa67/138101
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",JOVEM PAN NEWS - SD
+http://x90.live:80/deivison67/sousa67/138102
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",RECORD NEWS - FHD
+http://x90.live:80/deivison67/sousa67/83097
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",RECORD NEWS - FHD²
+http://x90.live:80/deivison67/sousa67/83098
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",RECORD NEWS - HD
+http://x90.live:80/deivison67/sousa67/83096
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",RECORD NEWS - SD
+http://x90.live:80/deivison67/sousa67/83095
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",TVideoNews - SD
+http://x90.live:80/deivison67/sousa67/51169
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",TVideoNews - SD²
+http://x90.live:80/deivison67/sousa67/83099
+
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",BAND SPORTS - FHD
+http://x90.live:80/deivison67/sousa67/82840
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",BAND SPORTS - FHD ²
+http://x90.live:80/deivison67/sousa67/82841
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",BAND SPORTS - HD
+http://x90.live:80/deivison67/sousa67/82838
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",BAND SPORTS - HD ²
+http://x90.live:80/deivison67/sousa67/82839
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",BAND SPORTS - SD
+http://x90.live:80/deivison67/sousa67/82836
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",BAND SPORTS - SD ²
+http://x90.live:80/deivison67/sousa67/82837
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",COMBATE - HD
+http://x90.live:80/deivison67/sousa67/82833
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",COMBATE - HD ²
+http://x90.live:80/deivison67/sousa67/82834
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",COMBATE - SD
+http://x90.live:80/deivison67/sousa67/82831
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",COMBATE -SD ²
+http://x90.live:80/deivison67/sousa67/82832
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",FISH TV - FHD
+http://x90.live:80/deivison67/sousa67/82849
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",FISH TV - HD
+http://x90.live:80/deivison67/sousa67/82848
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",FISH TV - SD
+http://x90.live:80/deivison67/sousa67/82846
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",FISH TV - SD ²
+http://x90.live:80/deivison67/sousa67/82847
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",OFF - FHD
+http://x90.live:80/deivison67/sousa67/82844
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",OFF - FHD ²
+http://x90.live:80/deivison67/sousa67/82845
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",OFF - HD
+http://x90.live:80/deivison67/sousa67/82843
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",OFF - SD
+http://x90.live:80/deivison67/sousa67/82842
+
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",Brasileirao Serie C 1 HD
+http://x90.live:80/deivison67/sousa67/13866500
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",Bundes Liga - HD 1
+http://x90.live:80/deivison67/sousa67/145951
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",Bundes Liga - HD 2
+http://x90.live:80/deivison67/sousa67/145952
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",Bundes Liga - HD 3
+http://x90.live:80/deivison67/sousa67/145953
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",Bundes Liga - HD 4
+http://x90.live:80/deivison67/sousa67/145954
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL - 1
+http://x90.live:80/deivison67/sousa67/93204
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL - 2
+http://x90.live:80/deivison67/sousa67/93205
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL 1 - H265
+http://x90.live:80/deivison67/sousa67/13869736
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL 1 - HD ²
+http://x90.live:80/deivison67/sousa67/93981
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL 2 - HD ²
+http://x90.live:80/deivison67/sousa67/93982
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL 3 - HD
+http://x90.live:80/deivison67/sousa67/93208
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL 3 - HD ³
+http://x90.live:80/deivison67/sousa67/128419
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL 4 - HD
+http://x90.live:80/deivison67/sousa67/93209
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",CONMEBOL 4 - HD²
+http://x90.live:80/deivison67/sousa67/128420
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",COPA SULAMERICANA HD
+http://x90.live:80/deivison67/sousa67/46169
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",DAZN 1 - HD
+http://x90.live:80/deivison67/sousa67/85687
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",DAZN 2 - HD
+http://x90.live:80/deivison67/sousa67/88876
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",DAZN 3 - HD
+http://x90.live:80/deivison67/sousa67/88009
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",DAZN 4 - HD
+http://x90.live:80/deivison67/sousa67/88011
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",DAZN 5 - HD
+http://x90.live:80/deivison67/sousa67/88014
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",FORMULA 1 - SD
+http://x90.live:80/deivison67/sousa67/139827
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",Formula 1 TV - HD
+http://x90.live:80/deivison67/sousa67/13865690
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",Furacao Live - HD
+http://x90.live:80/deivison67/sousa67/13874276
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",Furacao Live - SD
+http://x90.live:80/deivison67/sousa67/13874277
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",LIGA FUTSAL 1 - HD
+http://x90.live:80/deivison67/sousa67/1386019
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",LIGA FUTSAL 2 - HD
+http://x90.live:80/deivison67/sousa67/1386020
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",LIGA FUTSAL 3 - HD
+http://x90.live:80/deivison67/sousa67/13865691
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",LIGA FUTSAL 4 - HD
+http://x90.live:80/deivison67/sousa67/13865692
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",PRIME VIDEO 1
+http://x90.live:80/deivison67/sousa67/145635
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",PRIME VIDEO 2
+http://x90.live:80/deivison67/sousa67/145636
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",PRIME VIDEO 3
+http://x90.live:80/deivison67/sousa67/146059
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",STAR + 4 HD
+http://x90.live:80/deivison67/sousa67/1385282
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",STAR + HD
+http://x90.live:80/deivison67/sousa67/136393
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",STAR + HD 2
+http://x90.live:80/deivison67/sousa67/136762
+#EXTINF:0 tvg-id="ext" group-title="PAY-PER-VIEW",STAR + HD 3
+http://x90.live:80/deivison67/sousa67/136763
+
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",CANAL BRASIL - FHD
+http://x90.live:80/deivison67/sousa67/83653
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",CANAL BRASIL - HD
+http://x90.live:80/deivison67/sousa67/83652
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",CANAL BRASIL - SD
+http://x90.live:80/deivison67/sousa67/83650
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",CANAL DO BOI - FHD
+http://x90.live:80/deivison67/sousa67/130537
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",CANAL DO BOI - FHD
+http://x90.live:80/deivison67/sousa67/88560
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",CANAL DO BOI - HD
+http://x90.live:80/deivison67/sousa67/148274
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",CANAL RURAL - HD
+http://x90.live:80/deivison67/sousa67/1385285
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",FUTURA - FHD
+http://x90.live:80/deivison67/sousa67/83657
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",FUTURA - HD
+http://x90.live:80/deivison67/sousa67/83655
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",REDE BRASIL - HD
+http://x90.live:80/deivison67/sousa67/83659
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",REDE TV - HD
+http://x90.live:80/deivison67/sousa67/83662
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",REDE TV RS - HD
+http://x90.live:80/deivison67/sousa67/53893
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",REDE TV TOCANTINS -SD
+http://x90.live:80/deivison67/sousa67/83660
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",SHOPTIME - FHD
+http://x90.live:80/deivison67/sousa67/1385278
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TERRA VIVA - SD
+http://x90.live:80/deivison67/sousa67/83672
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV BRASIL - FHD
+http://x90.live:80/deivison67/sousa67/83673
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV BRASIL - HD
+http://x90.live:80/deivison67/sousa67/142246
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV BRASIL - SD
+http://x90.live:80/deivison67/sousa67/136982
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV CULTURA - FHD
+http://x90.live:80/deivison67/sousa67/83675
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV CULTURA - HD
+http://x90.live:80/deivison67/sousa67/83674
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV CULTURA - SD
+http://x90.live:80/deivison67/sousa67/83676
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV CÂMARA - HD
+http://x90.live:80/deivison67/sousa67/7989
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV DIARIO - HD
+http://x90.live:80/deivison67/sousa67/83678
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV DIARIO - SD
+http://x90.live:80/deivison67/sousa67/83677
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV ESCOLA - SD
+http://x90.live:80/deivison67/sousa67/83679
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV GAZETA - FHD
+http://x90.live:80/deivison67/sousa67/130539
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV GAZETA - FHD
+http://x90.live:80/deivison67/sousa67/83681
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV GAZETA - HD
+http://x90.live:80/deivison67/sousa67/83680
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV GAZETA - SD
+http://x90.live:80/deivison67/sousa67/130538
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV GAZETA ALAGOAS - FHD
+http://x90.live:80/deivison67/sousa67/94546
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV GAZETA SUL - HD
+http://x90.live:80/deivison67/sousa67/94545
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV SENADO - HD
+http://x90.live:80/deivison67/sousa67/83683
+
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",CANÇÃO NOVA - HD
+http://x90.live:80/deivison67/sousa67/51988
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",EVANGELIZAR - HD
+http://x90.live:80/deivison67/sousa67/1385254
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",IMPD TV
+http://x90.live:80/deivison67/sousa67/4655
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",REDE 21 HD
+http://x90.live:80/deivison67/sousa67/1385284
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",REDE CNT - SD
+http://x90.live:80/deivison67/sousa67/1386367
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",REDE GOSPEL - FHD ²
+http://x90.live:80/deivison67/sousa67/47663
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",REDE GOSPEL - SD²
+http://x90.live:80/deivison67/sousa67/51945
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",REDE SUPER - SD
+http://x90.live:80/deivison67/sousa67/3131
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",REDE VIDA - HD
+http://x90.live:80/deivison67/sousa67/83663
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",REDE VIDA ESPÍRITO SANTO - HD
+http://x90.live:80/deivison67/sousa67/83661
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",TV NOVO TEMPO - SD²
+http://x90.live:80/deivison67/sousa67/90477
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",TV PAI ETERNO - SD
+http://x90.live:80/deivison67/sousa67/131236
+#EXTINF:0 tvg-id="ext" group-title="RELIGIOSOS",TV UNIVERSAL
+http://x90.live:80/deivison67/sousa67/144470
+
+#EXTINF:0 tvg-id="ESPN.uk" group-title="ESPN",ESPN  2 - HD
+http://x90.live:80/deivison67/sousa67/82819
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN  2 - HD ²
+http://x90.live:80/deivison67/sousa67/82820
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN  2 - SD
+http://x90.live:80/deivison67/sousa67/82818
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN  4 - SD
+http://x90.live:80/deivison67/sousa67/82750
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN - FHD
+http://x90.live:80/deivison67/sousa67/82825
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN - FHD ²
+http://x90.live:80/deivison67/sousa67/82826
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN - HD
+http://x90.live:80/deivison67/sousa67/82823
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN - HD ²
+http://x90.live:80/deivison67/sousa67/82824
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN - SD
+http://x90.live:80/deivison67/sousa67/82822
+#EXTINF:0 tvg-id="ESPN.uk" group-title="ESPN",ESPN 2 - FHD
+http://x90.live:80/deivison67/sousa67/82821
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN 3 - FHD
+http://x90.live:80/deivison67/sousa67/82828
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN 3 - HD
+http://x90.live:80/deivison67/sousa67/340057
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN 4 - FHD
+http://x90.live:80/deivison67/sousa67/82754
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN 4 - HD
+http://x90.live:80/deivison67/sousa67/82752
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN 4 - HD²
+http://x90.live:80/deivison67/sousa67/82753
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN 4 - SD²
+http://x90.live:80/deivison67/sousa67/82751
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN Extra - FHD
+http://x90.live:80/deivison67/sousa67/82830
+#EXTINF:0 tvg-id="ext" group-title="ESPN",ESPN EXTRA - SD
+http://x90.live:80/deivison67/sousa67/82829
+
+#EXTINF:0 tvg-id="FoxSports.it" group-title="FOX SPORT",FOX SPORTS 2 - FHD
+http://x90.live:80/deivison67/sousa67/82759
+#EXTINF:0 tvg-id="FoxSports.it" group-title="FOX SPORT",FOX SPORTS 2 - HD
+http://x90.live:80/deivison67/sousa67/82757
+#EXTINF:0 tvg-id="ext" group-title="FOX SPORT",FOX SPORTS 2 - HD ²
+http://x90.live:80/deivison67/sousa67/82758
+#EXTINF:0 tvg-id="ext" group-title="FOX SPORT",FOX SPORTS 2 - SD
+http://x90.live:80/deivison67/sousa67/82755
+#EXTINF:0 tvg-id="ext" group-title="FOX SPORT",FOX SPORTS 2 - SD ²
+http://x90.live:80/deivison67/sousa67/82756
+
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE - FHD  H265
+http://x90.live:80/deivison67/sousa67/13863945
+#EXTINF:0 tvg-id="premiere-hd" group-title="PREMIERE CLUBE",PREMIERE 2 - FHD
+http://x90.live:80/deivison67/sousa67/83766
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 2 - FHD ²
+http://x90.live:80/deivison67/sousa67/137966
+#EXTINF:0 tvg-id="premiere-hd" group-title="PREMIERE CLUBE",PREMIERE 2 - HD
+http://x90.live:80/deivison67/sousa67/83764
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 2 - HD²
+http://x90.live:80/deivison67/sousa67/83765
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 2 - SD
+http://x90.live:80/deivison67/sousa67/83763
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 3 - FHD
+http://x90.live:80/deivison67/sousa67/83770
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 3 - FHD ²
+http://x90.live:80/deivison67/sousa67/137968
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 3 - HD
+http://x90.live:80/deivison67/sousa67/83768
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 3 - HD²
+http://x90.live:80/deivison67/sousa67/83769
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 3 - SD
+http://x90.live:80/deivison67/sousa67/83767
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 3 - SD ²
+http://x90.live:80/deivison67/sousa67/137967
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 4 - FHD
+http://x90.live:80/deivison67/sousa67/83774
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 4 - FHD²
+http://x90.live:80/deivison67/sousa67/137970
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 4 - HD
+http://x90.live:80/deivison67/sousa67/83772
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 4 - HD²
+http://x90.live:80/deivison67/sousa67/83773
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 4 - SD
+http://x90.live:80/deivison67/sousa67/83771
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 4 - SD²
+http://x90.live:80/deivison67/sousa67/137969
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 5 - FHD
+http://x90.live:80/deivison67/sousa67/83778
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 5 - FHD²
+http://x90.live:80/deivison67/sousa67/137972
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 5 - HD
+http://x90.live:80/deivison67/sousa67/83776
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 5 - HD²
+http://x90.live:80/deivison67/sousa67/83777
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 5 - SD
+http://x90.live:80/deivison67/sousa67/83775
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 5 - SD²
+http://x90.live:80/deivison67/sousa67/137971
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 6 - FHD
+http://x90.live:80/deivison67/sousa67/83782
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 6 - FHD²
+http://x90.live:80/deivison67/sousa67/137974
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 6 - HD
+http://x90.live:80/deivison67/sousa67/83781
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 6 - HD²
+http://x90.live:80/deivison67/sousa67/137973
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 6 - SD
+http://x90.live:80/deivison67/sousa67/83779
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 6 - SD²
+http://x90.live:80/deivison67/sousa67/83780
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 7 - FHD
+http://x90.live:80/deivison67/sousa67/83785
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 7 - HD
+http://x90.live:80/deivison67/sousa67/83784
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 7 - HD²
+http://x90.live:80/deivison67/sousa67/137976
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 7 - SD
+http://x90.live:80/deivison67/sousa67/83783
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE 7 - SD²
+http://x90.live:80/deivison67/sousa67/137975
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE CLUBES - FHD
+http://x90.live:80/deivison67/sousa67/83762
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE CLUBES - FHD²
+http://x90.live:80/deivison67/sousa67/96736
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE CLUBES - HD
+http://x90.live:80/deivison67/sousa67/83760
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE CLUBES - HD²
+http://x90.live:80/deivison67/sousa67/137964
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE CLUBES - SD
+http://x90.live:80/deivison67/sousa67/83758
+#EXTINF:0 tvg-id="ext" group-title="PREMIERE CLUBE",PREMIERE CLUBES - SD²
+http://x90.live:80/deivison67/sousa67/110294
+
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",FOX SPORTS NEWS - HD (ENG)
+http://x90.live:80/deivison67/sousa67/138380
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 1 - HD²
+http://x90.live:80/deivison67/sousa67/132865
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 1 HD
+http://x90.live:80/deivison67/sousa67/136706
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 2 - HD²
+http://x90.live:80/deivison67/sousa67/136710
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 2 HD
+http://x90.live:80/deivison67/sousa67/136707
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 3 - HD²
+http://x90.live:80/deivison67/sousa67/136711
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 3 HD
+http://x90.live:80/deivison67/sousa67/136708
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 4 HD
+http://x90.live:80/deivison67/sousa67/136709
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 5 - HD
+http://x90.live:80/deivison67/sousa67/136713
+#EXTINF:0 tvg-id="ext" group-title="HBO MAX CHAMPIONS LEAGUE",HBO MAX 6 - HD
+http://x90.live:80/deivison67/sousa67/136712
+
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO - FHD
+http://x90.live:80/deivison67/sousa67/83958
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO - HD
+http://x90.live:80/deivison67/sousa67/83956
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO - HD²
+http://x90.live:80/deivison67/sousa67/83957
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO - SD
+http://x90.live:80/deivison67/sousa67/83954
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO - SD²
+http://x90.live:80/deivison67/sousa67/83955
+#EXTINF:0 tvg-id="HBO.hu" group-title="HBO",HBO 2 - FHD
+http://x90.live:80/deivison67/sousa67/83964
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO 2 - h265²
+http://x90.live:80/deivison67/sousa67/83963
+#EXTINF:0 tvg-id="HBO.hu" group-title="HBO",HBO 2 - HD
+http://x90.live:80/deivison67/sousa67/83961
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO 2 - HD²
+http://x90.live:80/deivison67/sousa67/83962
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO 2 - SD
+http://x90.live:80/deivison67/sousa67/83959
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO 2 - SD²
+http://x90.live:80/deivison67/sousa67/83960
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO FAMILY - FHD
+http://x90.live:80/deivison67/sousa67/83967
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO FAMILY - HD
+http://x90.live:80/deivison67/sousa67/83966
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO FAMILY - SD
+http://x90.live:80/deivison67/sousa67/83965
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO MAIS - FHD
+http://x90.live:80/deivison67/sousa67/83972
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO MAIS - HD
+http://x90.live:80/deivison67/sousa67/83970
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO MAIS - HD²
+http://x90.live:80/deivison67/sousa67/83971
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO MAIS - SD
+http://x90.live:80/deivison67/sousa67/83968
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO MAIS - SD²
+http://x90.live:80/deivison67/sousa67/83969
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO Mundi - FHD
+http://x90.live:80/deivison67/sousa67/83556
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO Mundi - HD
+http://x90.live:80/deivison67/sousa67/83554
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO Mundi - HD²
+http://x90.live:80/deivison67/sousa67/83555
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO Mundi - SD
+http://x90.live:80/deivison67/sousa67/83552
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO Mundi - SD²
+http://x90.live:80/deivison67/sousa67/83553
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO POP - FHD
+http://x90.live:80/deivison67/sousa67/83565
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO POP - FHD²
+http://x90.live:80/deivison67/sousa67/83566
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO POP - HD²
+http://x90.live:80/deivison67/sousa67/83564
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO POP - SD
+http://x90.live:80/deivison67/sousa67/83562
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO POP -HD
+http://x90.live:80/deivison67/sousa67/83563
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO SIGNATURE - FHD
+http://x90.live:80/deivison67/sousa67/82711
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO SIGNATURE - HD
+http://x90.live:80/deivison67/sousa67/83974
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO SIGNATURE - SD
+http://x90.live:80/deivison67/sousa67/83973
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO Xtreme - FHD
+http://x90.live:80/deivison67/sousa67/83561
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO Xtreme - HD
+http://x90.live:80/deivison67/sousa67/83558
+#EXTINF:0 tvg-id="ext" group-title="HBO",HBO Xtreme - SD
+http://x90.live:80/deivison67/sousa67/83557
+
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO AMAZONICA - HD
+http://x90.live:80/deivison67/sousa67/137812
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO AMAZONICA - SD
+http://x90.live:80/deivison67/sousa67/137811
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO ANHANGUERA ANAPOLIS - HD
+http://x90.live:80/deivison67/sousa67/1385763
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO ANHANGUERA CATALAO - HD
+http://x90.live:80/deivison67/sousa67/1385764
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO ANHANGUERA ITUMBIARA - HD
+http://x90.live:80/deivison67/sousa67/1385766
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO BELO HORIZONTE FHD²
+http://x90.live:80/deivison67/sousa67/147603
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO BELO HORIZONTE HD²
+http://x90.live:80/deivison67/sousa67/147604
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO BRASILIA - FHD
+http://x90.live:80/deivison67/sousa67/83120
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO BRASILIA - HD
+http://x90.live:80/deivison67/sousa67/82970
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo EPTV  Sao Carlos - FHD
+http://x90.live:80/deivison67/sousa67/95620
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV CAMPINAS - FHD
+http://x90.live:80/deivison67/sousa67/82974
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV CAMPINAS - HD
+http://x90.live:80/deivison67/sousa67/82973
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV CAMPINAS - SD
+http://x90.live:80/deivison67/sousa67/82972
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV CAMPINAS - SD
+http://x90.live:80/deivison67/sousa67/83135
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV RIBEIRAO PRETO - FHD
+http://x90.live:80/deivison67/sousa67/83118
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV RIBEIRAO PRETO - HD
+http://x90.live:80/deivison67/sousa67/83117
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV RIBEIRAO PRETO - SD
+http://x90.live:80/deivison67/sousa67/83116
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV SAO CARLOS - HD
+http://x90.live:80/deivison67/sousa67/130592
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV SAO CARLOS - SD
+http://x90.live:80/deivison67/sousa67/83133
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV SUL DE MINAS - SD
+http://x90.live:80/deivison67/sousa67/105092
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV SUL MINAS - FHD
+http://x90.live:80/deivison67/sousa67/82980
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO EPTV SUL MINAS - HD
+http://x90.live:80/deivison67/sousa67/45043
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO GOIANIA - FHD²
+http://x90.live:80/deivison67/sousa67/82975
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTEGRACAO ARAXA - HD ²
+http://x90.live:80/deivison67/sousa67/75867
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTEGRAÇÃO DIVINÓPOLIS - HD
+http://x90.live:80/deivison67/sousa67/1385765
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV ALTO LITORAL - FHD
+http://x90.live:80/deivison67/sousa67/82976
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV ALTO LITORAL - HD
+http://x90.live:80/deivison67/sousa67/45049
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV ALTO LITORAL - SD
+http://x90.live:80/deivison67/sousa67/45048
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV CABUGI - HD
+http://x90.live:80/deivison67/sousa67/104952
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV CABUGI - SD
+http://x90.live:80/deivison67/sousa67/137021
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV DOS VALES - FHD
+http://x90.live:80/deivison67/sousa67/82977
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV DOS VALES - HD
+http://x90.live:80/deivison67/sousa67/45046
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV NATAL - SD
+http://x90.live:80/deivison67/sousa67/82978
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV SERRA MAR - FHD
+http://x90.live:80/deivison67/sousa67/82979
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV SERRA MAR - HD
+http://x90.live:80/deivison67/sousa67/88309
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO INTER TV SERRA MAR - SD
+http://x90.live:80/deivison67/sousa67/88308
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO MINAS - FHD
+http://x90.live:80/deivison67/sousa67/82984
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO MINAS - HD
+http://x90.live:80/deivison67/sousa67/82983
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO MINAS - HD²
+http://x90.live:80/deivison67/sousa67/83138
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO MINAS - SD
+http://x90.live:80/deivison67/sousa67/82981
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO MINAS - SD²
+http://x90.live:80/deivison67/sousa67/82982
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NORDESTE - FHD
+http://x90.live:80/deivison67/sousa67/82987
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NORDESTE - FHD²
+http://x90.live:80/deivison67/sousa67/82988
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NORDESTE - HD
+http://x90.live:80/deivison67/sousa67/82986
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NORDESTE - HD²
+http://x90.live:80/deivison67/sousa67/83131
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NORDESTE - SD
+http://x90.live:80/deivison67/sousa67/82985
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV BLUMENAU - FHD
+http://x90.live:80/deivison67/sousa67/82990
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV BLUMENAU - HD
+http://x90.live:80/deivison67/sousa67/45037
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV CHAPECO - FHD
+http://x90.live:80/deivison67/sousa67/82993
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV CHAPECO - HD
+http://x90.live:80/deivison67/sousa67/82992
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV CHAPECO - SD
+http://x90.live:80/deivison67/sousa67/82991
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV CRICIUMA FHD
+http://x90.live:80/deivison67/sousa67/105083
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV CRICIUMA HD
+http://x90.live:80/deivison67/sousa67/105082
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV CRICIUMA SD
+http://x90.live:80/deivison67/sousa67/105081
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV FLORIANOPOLIS - FHD
+http://x90.live:80/deivison67/sousa67/82996
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV FLORIANOPOLIS - HD
+http://x90.live:80/deivison67/sousa67/82995
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV FLORIANOPOLIS - SD
+http://x90.live:80/deivison67/sousa67/82994
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV JOINVILLE - FHD
+http://x90.live:80/deivison67/sousa67/82999
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV JOINVILLE - HD
+http://x90.live:80/deivison67/sousa67/82998
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO NSC TV JOINVILLE - SD
+http://x90.live:80/deivison67/sousa67/82997
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS CAXIAS DO SUL FHD
+http://x90.live:80/deivison67/sousa67/105077
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS CAXIAS DO SUL HD
+http://x90.live:80/deivison67/sousa67/105076
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV CAXIAS DO SUL - FHD
+http://x90.live:80/deivison67/sousa67/83056
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV CAXIAS DO SUL - HD
+http://x90.live:80/deivison67/sousa67/83055
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV CAXIAS DO SUL - SD
+http://x90.live:80/deivison67/sousa67/83054
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo RBS TV Passo Fundo - HD
+http://x90.live:80/deivison67/sousa67/137803
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo RBS TV Passo Fundo - SD
+http://x90.live:80/deivison67/sousa67/137802
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo RBS TV Passo Fundo FHD
+http://x90.live:80/deivison67/sousa67/137804
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV PELOTAS - FHD
+http://x90.live:80/deivison67/sousa67/83059
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV PELOTAS - HD
+http://x90.live:80/deivison67/sousa67/83058
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV PELOTAS - SD
+http://x90.live:80/deivison67/sousa67/83057
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV PORTO ALEGRE - FHD
+http://x90.live:80/deivison67/sousa67/83060
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV PORTO ALEGRE - HD
+http://x90.live:80/deivison67/sousa67/83001
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RBS TV PORTO ALEGRE - SD
+http://x90.live:80/deivison67/sousa67/83000
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO REDE AMAZONICA - FHD²
+http://x90.live:80/deivison67/sousa67/137813
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO REDE AMAZONICA - SD
+http://x90.live:80/deivison67/sousa67/83061
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO REDE AMAZONICA MANAUS - FHD
+http://x90.live:80/deivison67/sousa67/105060
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO REDE AMAZONICA MANAUS - HD
+http://x90.live:80/deivison67/sousa67/105059
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO REDE AMAZONICA MANAUS - SD
+http://x90.live:80/deivison67/sousa67/83130
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RJ - FHD²
+http://x90.live:80/deivison67/sousa67/83007
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RJ - HD
+http://x90.live:80/deivison67/sousa67/83004
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RJ - HD²
+http://x90.live:80/deivison67/sousa67/83005
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RJ - HD²
+http://x90.live:80/deivison67/sousa67/83003
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RJ - SD
+http://x90.live:80/deivison67/sousa67/83002
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo RPC Cascavel - FHD
+http://x90.live:80/deivison67/sousa67/137810
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo RPC Cascavel HD
+http://x90.live:80/deivison67/sousa67/137809
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo RPC Cascavel SD
+http://x90.live:80/deivison67/sousa67/137808
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC CURITIBA - FHD
+http://x90.live:80/deivison67/sousa67/104931
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC CURITIBA - HD
+http://x90.live:80/deivison67/sousa67/83009
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC CURITIBA - SD
+http://x90.live:80/deivison67/sousa67/83008
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC FOZ DO IGUACU - FHD
+http://x90.live:80/deivison67/sousa67/83064
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC FOZ DO IGUACU - HD
+http://x90.live:80/deivison67/sousa67/83063
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC FOZ DO IGUACU - SD
+http://x90.live:80/deivison67/sousa67/83062
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo RPC Londrina HD
+http://x90.live:80/deivison67/sousa67/137806
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo RPC Londrina SD
+http://x90.live:80/deivison67/sousa67/137805
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC MARINGA - FHD
+http://x90.live:80/deivison67/sousa67/95624
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC MARINGA - HD
+http://x90.live:80/deivison67/sousa67/95622
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC MARINGA - SD
+http://x90.live:80/deivison67/sousa67/95623
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC TV PARANAVAI - FHD
+http://x90.live:80/deivison67/sousa67/137807
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC TV PARANAVAI - HD
+http://x90.live:80/deivison67/sousa67/105067
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC TV PARANAVAI - SD
+http://x90.live:80/deivison67/sousa67/105066
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC TV PONTA GROSSA - FHD
+http://x90.live:80/deivison67/sousa67/105074
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC TV PONTA GROSSA - HD
+http://x90.live:80/deivison67/sousa67/105073
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO RPC TV PONTA GROSSA SD
+http://x90.live:80/deivison67/sousa67/105072
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO SANTA MARIA - FHD
+http://x90.live:80/deivison67/sousa67/13863583
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO SANTA MARIA - HD
+http://x90.live:80/deivison67/sousa67/13863582
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO SANTA MARIA - SD
+http://x90.live:80/deivison67/sousa67/13863581
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO SP - FHD²
+http://x90.live:80/deivison67/sousa67/83014
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO SP - HD
+http://x90.live:80/deivison67/sousa67/83011
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO SP - HD²
+http://x90.live:80/deivison67/sousa67/83012
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO SP - SD
+http://x90.live:80/deivison67/sousa67/83010
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV ANHANGUERA - FHD
+http://x90.live:80/deivison67/sousa67/137028
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV ANHANGUERA GOIANIA - FHD²
+http://x90.live:80/deivison67/sousa67/83017
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV ANHANGUERA GOIANIA - HD²
+http://x90.live:80/deivison67/sousa67/83016
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV ANHANGUERA GOIANIA - SD²
+http://x90.live:80/deivison67/sousa67/83015
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV ANHANGUERA GOIANIA - SD²
+http://x90.live:80/deivison67/sousa67/83128
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV ASA BRANCA FHD
+http://x90.live:80/deivison67/sousa67/105071
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV ASA BRANCA HD
+http://x90.live:80/deivison67/sousa67/105070
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV ASA BRANCA SD
+http://x90.live:80/deivison67/sousa67/105069
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV BAHIA - FHD
+http://x90.live:80/deivison67/sousa67/83020
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV BAHIA - HD
+http://x90.live:80/deivison67/sousa67/83019
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV BAHIA - HD²
+http://x90.live:80/deivison67/sousa67/106572
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV BAHIA - SD
+http://x90.live:80/deivison67/sousa67/83018
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV BAHIA - SD²
+http://x90.live:80/deivison67/sousa67/83127
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV CABO BRANCO - FHD
+http://x90.live:80/deivison67/sousa67/83026
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV CABO BRANCO - HD
+http://x90.live:80/deivison67/sousa67/83025
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV CABO BRANCO - SD
+http://x90.live:80/deivison67/sousa67/83024
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo TV Centro America - FHD
+http://x90.live:80/deivison67/sousa67/105064
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo TV Centro America - HD
+http://x90.live:80/deivison67/sousa67/105063
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",Globo TV Centro America - SD
+http://x90.live:80/deivison67/sousa67/130594
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV CLUBE TERESINA - HD
+http://x90.live:80/deivison67/sousa67/83022
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV DIARIO MOGI DAS CRUZES FHD
+http://x90.live:80/deivison67/sousa67/105040
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV DIARIO MOGI DAS CRUZES HD
+http://x90.live:80/deivison67/sousa67/105039
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV DIARIO MOGI DAS CRUZES SD
+http://x90.live:80/deivison67/sousa67/105038
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV FRONTEIRA P. PRUDENTE - SD
+http://x90.live:80/deivison67/sousa67/105047
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV FRONTEIRA P. PRUDENTE FHD
+http://x90.live:80/deivison67/sousa67/105049
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV FRONTEIRA P. PRUDENTE HD
+http://x90.live:80/deivison67/sousa67/105048
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV GAZETA ALAGOAS - FHD
+http://x90.live:80/deivison67/sousa67/83029
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV GAZETA ALAGOAS - HD
+http://x90.live:80/deivison67/sousa67/83028
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV GAZETA SUL  - SD
+http://x90.live:80/deivison67/sousa67/130536
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV GAZETA SUL FHD
+http://x90.live:80/deivison67/sousa67/105065
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV GAZETA SUL HD
+http://x90.live:80/deivison67/sousa67/105085
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV GAZETA VITÓRIA - HD
+http://x90.live:80/deivison67/sousa67/28287
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV GAZETA VITÓRIA - HD
+http://x90.live:80/deivison67/sousa67/28286
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV INTEGRACAO JUIZ DE FORA - FHD
+http://x90.live:80/deivison67/sousa67/105055
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV INTEGRACAO JUIZ DE FORA - SD
+http://x90.live:80/deivison67/sousa67/105053
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV INTEGRACAO UBERABA - HD
+http://x90.live:80/deivison67/sousa67/104958
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV INTEGRAÇÃO ARAXA FHD
+http://x90.live:80/deivison67/sousa67/105091
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV INTEGRAÇÃO ARAXA HD
+http://x90.live:80/deivison67/sousa67/105090
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV INTEGRAÇÃO ARAXA SD
+http://x90.live:80/deivison67/sousa67/105089
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV INTEGRAÇÃO JUIZ DE FORA - HD
+http://x90.live:80/deivison67/sousa67/105021
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV LIBERAL BELEM - FHD
+http://x90.live:80/deivison67/sousa67/105062
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV LIBERAL BELEM - HD
+http://x90.live:80/deivison67/sousa67/105061
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV LIBERAL BELEM - SD
+http://x90.live:80/deivison67/sousa67/130593
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV MIRANTE SAO LUIS - FHD
+http://x90.live:80/deivison67/sousa67/83032
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV MIRANTE SAO LUIS - HD
+http://x90.live:80/deivison67/sousa67/83031
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV MIRANTE SAO LUIS - SD
+http://x90.live:80/deivison67/sousa67/83030
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV MORENA - FHD
+http://x90.live:80/deivison67/sousa67/83035
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV MORENA - HD
+http://x90.live:80/deivison67/sousa67/83034
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV MORENA - SD
+http://x90.live:80/deivison67/sousa67/83033
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA - HD
+http://x90.live:80/deivison67/sousa67/104927
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA - SD
+http://x90.live:80/deivison67/sousa67/104926
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA BOA VISTA  - FHD
+http://x90.live:80/deivison67/sousa67/105046
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA BOA VISTA HD
+http://x90.live:80/deivison67/sousa67/105045
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA BOA VISTA SD
+http://x90.live:80/deivison67/sousa67/105044
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+http://x90.live:80/deivison67/sousa67/105052
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO HD
+http://x90.live:80/deivison67/sousa67/105051
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO SD
+http://x90.live:80/deivison67/sousa67/105050
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA RIO BRANCO - FHD
+http://x90.live:80/deivison67/sousa67/105035
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA RIO BRANCO HD
+http://x90.live:80/deivison67/sousa67/105036
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV REDE AMAZONICA RONDONIA  - FHD²
+http://x90.live:80/deivison67/sousa67/104928
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV RIO SUL - FHD
+http://x90.live:80/deivison67/sousa67/83038
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV RIO SUL - HD
+http://x90.live:80/deivison67/sousa67/83037
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV RIO SUL - SD
+http://x90.live:80/deivison67/sousa67/83036
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV SERGIPE - FHD
+http://x90.live:80/deivison67/sousa67/83044
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV SERGIPE - HD
+http://x90.live:80/deivison67/sousa67/83043
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV SERGIPE - SD
+http://x90.live:80/deivison67/sousa67/83042
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV SUBAE - HD
+http://x90.live:80/deivison67/sousa67/105030
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM BAURU - FHD
+http://x90.live:80/deivison67/sousa67/130577
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM BAURU - HD
+http://x90.live:80/deivison67/sousa67/130576
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM BAURU - SD
+http://x90.live:80/deivison67/sousa67/83049
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM S. J. DO RIO PRETO - FHD
+http://x90.live:80/deivison67/sousa67/83052
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM S. J. DO RIO PRETO - HD
+http://x90.live:80/deivison67/sousa67/83051
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM S. J. DO RIO PRETO - SD
+http://x90.live:80/deivison67/sousa67/83050
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM SOROCABA - FHD
+http://x90.live:80/deivison67/sousa67/130579
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM SOROCABA - HD
+http://x90.live:80/deivison67/sousa67/130578
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD
+http://x90.live:80/deivison67/sousa67/83053
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD²
+http://x90.live:80/deivison67/sousa67/83123
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS - FHD
+http://x90.live:80/deivison67/sousa67/130581
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS - HD
+http://x90.live:80/deivison67/sousa67/130580
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS - SD
+http://x90.live:80/deivison67/sousa67/83045
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS - SD²
+http://x90.live:80/deivison67/sousa67/83122
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS - FHD
+http://x90.live:80/deivison67/sousa67/130583
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS - HD
+http://x90.live:80/deivison67/sousa67/130582
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS - SD
+http://x90.live:80/deivison67/sousa67/83046
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS - SD²
+http://x90.live:80/deivison67/sousa67/83121
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA TAUBATE - FHD
+http://x90.live:80/deivison67/sousa67/105058
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA TAUBATE - HD
+http://x90.live:80/deivison67/sousa67/105056
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA TAUBATE - SD
+http://x90.live:80/deivison67/sousa67/105057
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES - FHD
+http://x90.live:80/deivison67/sousa67/104925
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES - FHD²
+http://x90.live:80/deivison67/sousa67/83048
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES - HD
+http://x90.live:80/deivison67/sousa67/104924
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES - SD
+http://x90.live:80/deivison67/sousa67/83047
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES - SD²
+http://x90.live:80/deivison67/sousa67/104923
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES FORTALEZA  - FHD²
+http://x90.live:80/deivison67/sousa67/95330
+#EXTINF:0 tvg-id="ext" group-title="GLOBO",ZOOMOO - SD
+http://x90.live:80/deivison67/sousa67/150694
+
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD  SANTA CATARINA - HD
+http://x90.live:80/deivison67/sousa67/13867471
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD BAHIA - HD
+http://x90.live:80/deivison67/sousa67/140894
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD BAHIA - SD
+http://x90.live:80/deivison67/sousa67/82885
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD BELEM - HD
+http://x90.live:80/deivison67/sousa67/82889
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD BELEM - SD
+http://x90.live:80/deivison67/sousa67/82888
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD GOIAIS - HD
+http://x90.live:80/deivison67/sousa67/82891
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD GOIAIS - SD
+http://x90.live:80/deivison67/sousa67/82890
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD INTERIOR RJ - SD
+http://x90.live:80/deivison67/sousa67/13875003
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD INTERIOR SP - HD
+http://x90.live:80/deivison67/sousa67/1385406
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD ITAPOAN - FHD
+http://x90.live:80/deivison67/sousa67/320213
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD LITORAL VALE DO PARNAIBA FHD
+http://x90.live:80/deivison67/sousa67/320214
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD MG - SD
+http://x90.live:80/deivison67/sousa67/82882
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD MINAS - SD
+http://x90.live:80/deivison67/sousa67/320219
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD PARANAIBA UBERLANDIA FHD
+http://x90.live:80/deivison67/sousa67/320215
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD RIO - HD²
+http://x90.live:80/deivison67/sousa67/82881
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD RS - HD
+http://x90.live:80/deivison67/sousa67/87574
+#EXTINF:0 tvg-id="ext" group-title="RECORD",Record Sao Jose Rio Preto HD
+http://x90.live:80/deivison67/sousa67/143392
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SIC TV RONDONIA - FHD
+http://x90.live:80/deivison67/sousa67/82883
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SIC TV RONDONIA - HD
+http://x90.live:80/deivison67/sousa67/123889
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SP - FHD²
+http://x90.live:80/deivison67/sousa67/82879
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SP - HD
+http://x90.live:80/deivison67/sousa67/82874
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SP - HD²
+http://x90.live:80/deivison67/sousa67/82878
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SP - SD
+http://x90.live:80/deivison67/sousa67/82873
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD SP - SD²
+http://x90.live:80/deivison67/sousa67/82876
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD TV PARANA - HD
+http://x90.live:80/deivison67/sousa67/13868819
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD VILA REAL - FHD
+http://x90.live:80/deivison67/sousa67/320220
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORD VILA REAL - HD
+http://x90.live:80/deivison67/sousa67/320218
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORDTV BRASILIA - HD
+http://x90.live:80/deivison67/sousa67/132815
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORDTV ITAPOAN - FHD
+http://x90.live:80/deivison67/sousa67/132976
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORDTV ITAPOAN - HD
+http://x90.live:80/deivison67/sousa67/132977
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORDTV RJ - FHD
+http://x90.live:80/deivison67/sousa67/156144
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORDTV RJ - HD
+http://x90.live:80/deivison67/sousa67/123675
+#EXTINF:0 tvg-id="ext" group-title="RECORD",RECORDTV RJ - SD
+http://x90.live:80/deivison67/sousa67/132816
+
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT - h265 ²
+http://x90.live:80/deivison67/sousa67/83668
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT - HD
+http://x90.live:80/deivison67/sousa67/83666
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT - HD²
+http://x90.live:80/deivison67/sousa67/83667
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT - SD
+http://x90.live:80/deivison67/sousa67/83665
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT Aratu Bahia - HD
+http://x90.live:80/deivison67/sousa67/95657
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT PIAUI
+http://x90.live:80/deivison67/sousa67/1385358
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT PR -HD
+http://x90.live:80/deivison67/sousa67/1385357
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT RJ - HD
+http://x90.live:80/deivison67/sousa67/156203
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT RS - HD
+http://x90.live:80/deivison67/sousa67/1385279
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT SERGIPE
+http://x90.live:80/deivison67/sousa67/320221
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT SP - SD²
+http://x90.live:80/deivison67/sousa67/83671
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT SP HD
+http://x90.live:80/deivison67/sousa67/320223
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT TV ALTEROSA FHD
+http://x90.live:80/deivison67/sousa67/320216
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT TV JANGADEIRO - HD
+http://x90.live:80/deivison67/sousa67/320210
+#EXTINF:0 tvg-id="ext" group-title="SBT",SBT TV SERRA DOURADA
+http://x90.live:80/deivison67/sousa67/96177
+
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="SPORTS WORLD",SPORT TV +  HD
+http://x90.live:80/deivison67/sousa67/138405
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="SPORTS WORLD",SPORT TV + SD
+http://x90.live:80/deivison67/sousa67/138404
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="SPORTS WORLD",SPORT TV 1 HD
+http://x90.live:80/deivison67/sousa67/138407
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="SPORTS WORLD",SPORT TV 1 SD
+http://x90.live:80/deivison67/sousa67/138406
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="SPORTS WORLD",SPORT TV 2 HD
+http://x90.live:80/deivison67/sousa67/138409
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="SPORTS WORLD",SPORT TV 3
+http://x90.live:80/deivison67/sousa67/138410
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="SPORTS WORLD",SPORT TV 3 HD
+http://x90.live:80/deivison67/sousa67/138411
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="SPORTS WORLD",SPORT TV 4
+http://x90.live:80/deivison67/sousa67/138412
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="SPORTS WORLD",SPORT TV 4 HD
+http://x90.live:80/deivison67/sousa67/138413
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="SPORTS WORLD",SPORT TV 5
+http://x90.live:80/deivison67/sousa67/138414
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="SPORTS WORLD",SPORT TV 5 HD
+http://x90.live:80/deivison67/sousa67/138415
+#EXTINF:0 tvg-id="SportTV6.pt" group-title="SPORTS WORLD",SPORT TV 6 HD
+http://x90.live:80/deivison67/sousa67/138416
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SPORT TV NBA FHD
+http://x90.live:80/deivison67/sousa67/138842
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="SPORTS WORLD",SPORTING TV FHD
+http://x90.live:80/deivison67/sousa67/138419
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="SPORTS WORLD",SPORTING TV SD
+http://x90.live:80/deivison67/sousa67/138418
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SPORTS| BEIN SPORTS 11 HD ARABE
+http://x90.live:80/deivison67/sousa67/138442
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SPORTS| BEIN SPORTS 5 HD ARABE
+http://x90.live:80/deivison67/sousa67/138436
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SPORTS| BEIN SPORTS 6 HD ARABE
+http://x90.live:80/deivison67/sousa67/138437
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SPORTS| BEIN SPORTS 7 HD ARABE
+http://x90.live:80/deivison67/sousa67/138438
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV - FHD
+http://x90.live:80/deivison67/sousa67/82739
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV - HD
+http://x90.live:80/deivison67/sousa67/82737
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV - HD ²
+http://x90.live:80/deivison67/sousa67/82738
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV - SD
+http://x90.live:80/deivison67/sousa67/82735
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV - SD²
+http://x90.live:80/deivison67/sousa67/82736
+#EXTINF:0 tvg-id="Sportv.br" group-title="SPORTV",SPORTV 2 - FHD
+http://x90.live:80/deivison67/sousa67/82744
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 2 - FHD h265 ²
+http://x90.live:80/deivison67/sousa67/12813
+#EXTINF:0 tvg-id="Sportv.br" group-title="SPORTV",SPORTV 2 - HD
+http://x90.live:80/deivison67/sousa67/82742
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 2 - HD ²
+http://x90.live:80/deivison67/sousa67/82743
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 2 - SD
+http://x90.live:80/deivison67/sousa67/82741
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 2 - SD ²
+http://x90.live:80/deivison67/sousa67/82740
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 3 - FHD
+http://x90.live:80/deivison67/sousa67/82749
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 3 - FHD h265²
+http://x90.live:80/deivison67/sousa67/12812
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 3 - HD
+http://x90.live:80/deivison67/sousa67/82747
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 3 - HD²
+http://x90.live:80/deivison67/sousa67/82748
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 3 - SD
+http://x90.live:80/deivison67/sousa67/82745
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV 3 - SD²
+http://x90.live:80/deivison67/sousa67/82746
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",SPORTV FHD - h265 ²
+http://x90.live:80/deivison67/sousa67/12815
+#EXTINF:0 tvg-id="ext" group-title="SPORTV",Sportv Plus - HD
+http://x90.live:80/deivison67/sousa67/134230
+
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE ACTION - FHD
+http://x90.live:80/deivison67/sousa67/82682
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE ACTION - FHD ²
+http://x90.live:80/deivison67/sousa67/82683
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE ACTION - HD
+http://x90.live:80/deivison67/sousa67/82680
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE ACTION - HD ²
+http://x90.live:80/deivison67/sousa67/82681
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE ACTION - SD
+http://x90.live:80/deivison67/sousa67/82678
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE ACTION - SD ²
+http://x90.live:80/deivison67/sousa67/82679
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE CULT - FHD
+http://x90.live:80/deivison67/sousa67/82687
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE CULT - HD
+http://x90.live:80/deivison67/sousa67/82686
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE CULT - SD
+http://x90.live:80/deivison67/sousa67/82684
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE CULT - SD ²
+http://x90.live:80/deivison67/sousa67/82685
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE FUN - FHD
+http://x90.live:80/deivison67/sousa67/82692
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE FUN - FHD ²
+http://x90.live:80/deivison67/sousa67/82693
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE FUN - HD
+http://x90.live:80/deivison67/sousa67/82690
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE FUN - HD ²
+http://x90.live:80/deivison67/sousa67/82691
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE FUN - SD
+http://x90.live:80/deivison67/sousa67/82688
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE FUN - SD ²
+http://x90.live:80/deivison67/sousa67/82689
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PIPOCA - FHD
+http://x90.live:80/deivison67/sousa67/82697
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PIPOCA - FHD H265
+http://x90.live:80/deivison67/sousa67/13863585
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PIPOCA - FHD ²
+http://x90.live:80/deivison67/sousa67/82698
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PIPOCA - HD
+http://x90.live:80/deivison67/sousa67/82695
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PIPOCA - HD ²
+http://x90.live:80/deivison67/sousa67/82696
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PIPOCA - SD
+http://x90.live:80/deivison67/sousa67/82694
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PREMIUM - FHD
+http://x90.live:80/deivison67/sousa67/82702
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",Telecine Premium - FHD ²
+http://x90.live:80/deivison67/sousa67/82703
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PREMIUM - HD
+http://x90.live:80/deivison67/sousa67/82700
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PREMIUM - HD ²
+http://x90.live:80/deivison67/sousa67/82701
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE PREMIUM - SD
+http://x90.live:80/deivison67/sousa67/82699
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE TOUCH - FHD
+http://x90.live:80/deivison67/sousa67/82708
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE TOUCH - HD
+http://x90.live:80/deivison67/sousa67/82706
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE TOUCH - HD ²
+http://x90.live:80/deivison67/sousa67/82707
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE TOUCH - SD
+http://x90.live:80/deivison67/sousa67/82704
+#EXTINF:0 tvg-id="ext" group-title="TELECINE",TELECINE TOUCH - SD ²
+http://x90.live:80/deivison67/sousa67/82705
+
+#EXTINF:0 tvg-id="ext" group-title="ESTADIO TNT SPORTS",TNT SPORT HD - 2
+http://x90.live:80/deivison67/sousa67/136199
+#EXTINF:0 tvg-id="ext" group-title="ESTADIO TNT SPORTS",TNT SPORT HD - 1
+http://x90.live:80/deivison67/sousa67/122304
+#EXTINF:0 tvg-id="ext" group-title="ESTADIO TNT SPORTS",TNT SPORTS HD - 3
+http://x90.live:80/deivison67/sousa67/121989
+#EXTINF:0 tvg-id="ext" group-title="ESTADIO TNT SPORTS",TNT SPORTS HD - 4
+http://x90.live:80/deivison67/sousa67/121993
+#EXTINF:0 tvg-id="ext" group-title="ESTADIO TNT SPORTS",TNT SPORTS HD - 5
+http://x90.live:80/deivison67/sousa67/132864
+
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE ACAO
+http://x90.live:80/deivison67/sousa67/152723
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE KIDS
+http://x90.live:80/deivison67/sousa67/1385236
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE SKY 01
+http://x90.live:80/deivison67/sousa67/155499
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE SKY 02
+http://x90.live:80/deivison67/sousa67/155500
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE SKY 03
+http://x90.live:80/deivison67/sousa67/155501
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE SKY 04
+http://x90.live:80/deivison67/sousa67/155502
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE SKY 05
+http://x90.live:80/deivison67/sousa67/155503
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE SKY 06
+http://x90.live:80/deivison67/sousa67/155504
+#EXTINF:0 tvg-id="ext" group-title="CINE UNION",CINE SKY 07
+http://x90.live:80/deivison67/sousa67/155505
+
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 1 HD
+http://x90.live:80/deivison67/sousa67/138421
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 1 SD
+http://x90.live:80/deivison67/sousa67/138420
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 2 HD
+http://x90.live:80/deivison67/sousa67/138423
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 2 SD
+http://x90.live:80/deivison67/sousa67/138422
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 3 HD
+http://x90.live:80/deivison67/sousa67/138425
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 3 SD
+http://x90.live:80/deivison67/sousa67/138424
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 4
+http://x90.live:80/deivison67/sousa67/138426
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 4 HD
+http://x90.live:80/deivison67/sousa67/138427
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 5
+http://x90.live:80/deivison67/sousa67/138428
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 5 HD
+http://x90.live:80/deivison67/sousa67/138429
+#EXTINF:0 tvg-id="elevensports6.pt" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 6
+http://x90.live:80/deivison67/sousa67/138430
+#EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 6 HD
+http://x90.live:80/deivison67/sousa67/138431
+
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| 01
+http://x90.live:80/deivison67/sousa67/141177
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Boston Celtics
+http://x90.live:80/deivison67/sousa67/142165
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Charlotte Hornets
+http://x90.live:80/deivison67/sousa67/142166
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Chicago Bulls
+http://x90.live:80/deivison67/sousa67/142167
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Cleveland Cavaliers
+http://x90.live:80/deivison67/sousa67/142168
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Dallas Mavericks
+http://x90.live:80/deivison67/sousa67/142169
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Denver Nuggets
+http://x90.live:80/deivison67/sousa67/142170
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 1 HD
+http://x90.live:80/deivison67/sousa67/138758311
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 2 HD
+http://x90.live:80/deivison67/sousa67/138758312
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 3 HD
+http://x90.live:80/deivison67/sousa67/138758313
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 5 HD
+http://x90.live:80/deivison67/sousa67/138758315
+#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 6 HD
+http://x90.live:80/deivison67/sousa67/138758316
+
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 1 24Hs
+http://x90.live:80/deivison67/sousa67/51478
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 2 24Hs
+http://x90.live:80/deivison67/sousa67/51479
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 3 24Hs
+http://x90.live:80/deivison67/sousa67/51480
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 4 24Hs
+http://x90.live:80/deivison67/sousa67/51481
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 5 24Hs
+http://x90.live:80/deivison67/sousa67/52826
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 6 24Hs
+http://x90.live:80/deivison67/sousa67/52827
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 7 24Hs
+http://x90.live:80/deivison67/sousa67/52828
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",Babes 17
+http://x90.live:80/deivison67/sousa67/4218
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",BRAD MONTANA +18
+http://x90.live:80/deivison67/sousa67/1385240
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",Brasileirinhas 24hrs - 1
+http://x90.live:80/deivison67/sousa67/120603
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",CONTOS MULTISHOW +18
+http://x90.live:80/deivison67/sousa67/1385242
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",Elas&Elas
+http://x90.live:80/deivison67/sousa67/51489
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ELES&ELES
+http://x90.live:80/deivison67/sousa67/51995
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",FESTAS PRIME BR +18
+http://x90.live:80/deivison67/sousa67/1385243
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",PLAYBOY - FHD
+http://x90.live:80/deivison67/sousa67/28178
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",PLAYBOY - HD
+http://x90.live:80/deivison67/sousa67/7974
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",PLAYBOY - HD ²
+http://x90.live:80/deivison67/sousa67/12973
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",PLAYBOY - SD
+http://x90.live:80/deivison67/sousa67/7975
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",RETRO +18
+http://x90.live:80/deivison67/sousa67/1385241
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",SEXTREME - HD
+http://x90.live:80/deivison67/sousa67/51957
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",SEXTREME - SD
+http://x90.live:80/deivison67/sousa67/90476
+#EXTINF:0 tvg-id="Sexyhot.br" group-title="ADULTOS",SEXY HOT
+http://x90.live:80/deivison67/sousa67/7972
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",SEXY HOT - HD
+http://x90.live:80/deivison67/sousa67/12951
+#EXTINF:0 tvg-id="VenusTV.uk" group-title="ADULTOS",VENUS
+http://x90.live:80/deivison67/sousa67/7971
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",VENUS - SD ²
+http://x90.live:80/deivison67/sousa67/12927
+
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",3 Palavrinhas
+http://x90.live:80/deivison67/sousa67/1385054
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",A CORUJA
+http://x90.live:80/deivison67/sousa67/154908
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",A Galinha Pintadinha  24H
+http://x90.live:80/deivison67/sousa67/50546
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",Bita e os Animais
+http://x90.live:80/deivison67/sousa67/1385244
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",CLEO E CUQUIN
+http://x90.live:80/deivison67/sousa67/154880
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",CRY BABIES
+http://x90.live:80/deivison67/sousa67/154904
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",Dora a Aventureira
+http://x90.live:80/deivison67/sousa67/153852
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",FIVE LITTLE BABIES
+http://x90.live:80/deivison67/sousa67/154902
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",Little Angel
+http://x90.live:80/deivison67/sousa67/154903
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",Luluzinha  24H
+http://x90.live:80/deivison67/sousa67/50542
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",MASHA E O URSO
+http://x90.live:80/deivison67/sousa67/1385053
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",O MUNDO COLORIDO DO CHARLIE
+http://x90.live:80/deivison67/sousa67/155337
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",OS 3 PORQUINHOS
+http://x90.live:80/deivison67/sousa67/154907
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",Os AMIGUINHOS
+http://x90.live:80/deivison67/sousa67/154906
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="KIDS 24H",PEPPA PIG
+http://x90.live:80/deivison67/sousa67/153857
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",PISTAS DE BLUE E VOCÊ
+http://x90.live:80/deivison67/sousa67/155338
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",Pocoyo 24H
+http://x90.live:80/deivison67/sousa67/50553
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",[24H] Coragem o cao Covarde
+http://x90.live:80/deivison67/sousa67/1385762
+#EXTINF:0 tvg-id="ext" group-title="KIDS 24H",[24] SouthPark
+http://x90.live:80/deivison67/sousa67/1385761
+
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",A CASA DO MICKEY MOUSE
+http://x90.live:80/deivison67/sousa67/153853
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",A CEGONHA DA PERNA FINA
+http://x90.live:80/deivison67/sousa67/153854
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",A TURMA DO CHARLIE BROWN E SNOOPY
+http://x90.live:80/deivison67/sousa67/153855
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",AS AVENTURAS DE BOB ESPONJA
+http://x90.live:80/deivison67/sousa67/80339
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",As Aventuras de Jackie Chan
+http://x90.live:80/deivison67/sousa67/128409
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",AS AVENTURAS DE JACKIE CHAN 24H
+http://x90.live:80/deivison67/sousa67/154905
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",AS MENINAS SUPER PODEROSAS
+http://x90.live:80/deivison67/sousa67/153842
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",AS TARTARUGAS NINJA
+http://x90.live:80/deivison67/sousa67/153843
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",AS TERRIVEIS AVENTURAS DE BILLY E MANDY
+http://x90.live:80/deivison67/sousa67/80334
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",BABY LOONEY TUNES
+http://x90.live:80/deivison67/sousa67/153856
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",BEN 10 24HS
+http://x90.live:80/deivison67/sousa67/153835
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Cavaleiros do Zodiaco 1
+http://x90.live:80/deivison67/sousa67/1386095
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Caverna do Dragão 24H
+http://x90.live:80/deivison67/sousa67/50537
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Chapolin Colorado 24hs
+http://x90.live:80/deivison67/sousa67/153834
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Chaves Desenho  24H
+http://x90.live:80/deivison67/sousa67/50547
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",CLARENCIO O OTIMISTA
+http://x90.live:80/deivison67/sousa67/153850
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Clássicos Disney 2 - 24hrs
+http://x90.live:80/deivison67/sousa67/123839
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Daniel Tigre  24H
+http://x90.live:80/deivison67/sousa67/50548
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Desenho Biblicos  24H
+http://x90.live:80/deivison67/sousa67/50549
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Familia Urso 24H
+http://x90.live:80/deivison67/sousa67/50538
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",George o Curioso 24H
+http://x90.live:80/deivison67/sousa67/50541
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",IRMAO DO JOREL
+http://x90.live:80/deivison67/sousa67/153865
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Larva 24H
+http://x90.live:80/deivison67/sousa67/50550
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",LIGEIRINHO
+http://x90.live:80/deivison67/sousa67/153844
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",MECANIMAIS
+http://x90.live:80/deivison67/sousa67/153846
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Mickey e Donald 24H
+http://x90.live:80/deivison67/sousa67/32110
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",NOSSA TURMA
+http://x90.live:80/deivison67/sousa67/154082
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",O FANTASTICO MUNDO DE BOBBY
+http://x90.live:80/deivison67/sousa67/153847
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",O MASKARA SERIE ANIMADA
+http://x90.live:80/deivison67/sousa67/154084
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",O PEQUENO SCOOBY DOO
+http://x90.live:80/deivison67/sousa67/154085
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",OS FLINTSTONES
+http://x90.live:80/deivison67/sousa67/153861
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",OS SIMPSONS S24
+http://x90.live:80/deivison67/sousa67/80344
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",OS SIMPSONS S25
+http://x90.live:80/deivison67/sousa67/153838
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",OS SIMPSONS S26
+http://x90.live:80/deivison67/sousa67/153839
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",OS SIMPSONS S27
+http://x90.live:80/deivison67/sousa67/153840
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",OS SIMPSONS S28
+http://x90.live:80/deivison67/sousa67/153841
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Padrinho Magicos 24H
+http://x90.live:80/deivison67/sousa67/50551
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",PATRULHA CANINA
+http://x90.live:80/deivison67/sousa67/153859
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Peppa Pig  24H
+http://x90.live:80/deivison67/sousa67/50543
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Pica Pau 24H
+http://x90.live:80/deivison67/sousa67/50539
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",PICOLINO
+http://x90.live:80/deivison67/sousa67/154088
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Polly Pocket 24H
+http://x90.live:80/deivison67/sousa67/50554
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Popeye
+http://x90.live:80/deivison67/sousa67/153864
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",PROJETO ZETA
+http://x90.live:80/deivison67/sousa67/153848
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",SITIO DO PICA PAU AMARELO
+http://x90.live:80/deivison67/sousa67/153849
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Smilinguido 24H
+http://x90.live:80/deivison67/sousa67/50555
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Super Choque 24hs
+http://x90.live:80/deivison67/sousa67/153836
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",TAZ MANIA
+http://x90.live:80/deivison67/sousa67/153851
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",Thundercats
+http://x90.live:80/deivison67/sousa67/1385768
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",TIMAO E PUMBA
+http://x90.live:80/deivison67/sousa67/153862
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",URSINHOS CARINHOSOS
+http://x90.live:80/deivison67/sousa67/80348
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24HRS] POKEMON
+http://x90.live:80/deivison67/sousa67/136981
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Astro Boy
+http://x90.live:80/deivison67/sousa67/128408
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Bob Esponja
+http://x90.live:80/deivison67/sousa67/124721
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Dragon Ball Heroes
+http://x90.live:80/deivison67/sousa67/129223
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Homem Aranha
+http://x90.live:80/deivison67/sousa67/128405
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Mega Man
+http://x90.live:80/deivison67/sousa67/128404
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Mortal Kombat
+http://x90.live:80/deivison67/sousa67/128403
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] O Mascara
+http://x90.live:80/deivison67/sousa67/128402
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Os Jetsons
+http://x90.live:80/deivison67/sousa67/128400
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Os Jovens Titas
+http://x90.live:80/deivison67/sousa67/128401
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Os Vingadores
+http://x90.live:80/deivison67/sousa67/128399
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Papa Leguas
+http://x90.live:80/deivison67/sousa67/128398
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Pernalonga e sua Turma
+http://x90.live:80/deivison67/sousa67/128397
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Pica Pau
+http://x90.live:80/deivison67/sousa67/128396
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Pinky e o Cérebro
+http://x90.live:80/deivison67/sousa67/124747
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Spider-Man Classic
+http://x90.live:80/deivison67/sousa67/128395
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Super Shock
+http://x90.live:80/deivison67/sousa67/128392
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Tico e Teco
+http://x90.live:80/deivison67/sousa67/128394
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Transformers Animated
+http://x90.live:80/deivison67/sousa67/128252
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Transformers Beast Machines
+http://x90.live:80/deivison67/sousa67/128251
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Transformers Classico
+http://x90.live:80/deivison67/sousa67/128253
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Tres Espias Demais
+http://x90.live:80/deivison67/sousa67/128250
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Três Espiãs Demais
+http://x90.live:80/deivison67/sousa67/128391
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Turbo Man
+http://x90.live:80/deivison67/sousa67/128249
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] Vale dos Dinossauros
+http://x90.live:80/deivison67/sousa67/128248
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24h] Wolverine e os X-Men
+http://x90.live:80/deivison67/sousa67/128254
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H] X-Men Animated Series - Classico
+http://x90.live:80/deivison67/sousa67/128247
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24H]Doug Funnie
+http://x90.live:80/deivison67/sousa67/128418
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24] BeyBlade
+http://x90.live:80/deivison67/sousa67/130150
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24] Denis o Pimentinha
+http://x90.live:80/deivison67/sousa67/130230
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24] Dragon Ball GT
+http://x90.live:80/deivison67/sousa67/130152
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24] O Fanastico Mundo Bobby
+http://x90.live:80/deivison67/sousa67/130231
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS 24 HRS",[24] Pink e Celebro
+http://x90.live:80/deivison67/sousa67/130232
+
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon Ball Super - Deus da Destruição Bills 24Hs
+http://x90.live:80/deivison67/sousa67/114492
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon Ball Super - Golden Freeza 24Hs
+http://x90.live:80/deivison67/sousa67/114493
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon Ball Super - Sobrevivência do Universo 24Hs
+http://x90.live:80/deivison67/sousa67/114496
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon Ball Super - Trunks do Futuro 24Hs
+http://x90.live:80/deivison67/sousa67/114495
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon Ball Super - Universo 6 24Hs
+http://x90.live:80/deivison67/sousa67/114494
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon.Ball Z - Saga de Cell 24Hs
+http://x90.live:80/deivison67/sousa67/113898
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon.Ball Z - Saga de Garlic Jr 24Hs
+http://x90.live:80/deivison67/sousa67/113897
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon.Ball Z - Saga dos Androides 24Hs
+http://x90.live:80/deivison67/sousa67/113896
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon.Ball Z - Saga Majin Boo 24Hs
+http://x90.live:80/deivison67/sousa67/113934
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon.Ball Z Saga de Freeza 24Hs
+http://x90.live:80/deivison67/sousa67/109188
+#EXTINF:0 tvg-id="ext" group-title="ANIMES 24 HRS",Dragon.Ball Z Saga dos Sayajins 24Hs
+http://x90.live:80/deivison67/sousa67/109187
+
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",Breaking Bad
+http://x90.live:80/deivison67/sousa67/13874224
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",LA CASA DE PAPEL 1 A 2 TEMP 24Hs
+http://x90.live:80/deivison67/sousa67/53176
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",NARCOS S01
+http://x90.live:80/deivison67/sousa67/154081
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",O JUSTICEIRO 1 A 2 TEMP 24Hs
+http://x90.live:80/deivison67/sousa67/53177
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",Peaky Blinders 6T
+http://x90.live:80/deivison67/sousa67/1385234
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",RIVARDALE 1 A 3 TEMP 24Hs
+http://x90.live:80/deivison67/sousa67/53181
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",SHODOW HUNTERS 1 A 2 TEMP 24Hs
+http://x90.live:80/deivison67/sousa67/53245
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",SIREN 1 A 2 TEMP 24Hs
+http://x90.live:80/deivison67/sousa67/53246
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",SOBRENATURAL S14
+http://x90.live:80/deivison67/sousa67/153867
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",SUITS 9T
+http://x90.live:80/deivison67/sousa67/13872652
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",THE BOYS 3T
+http://x90.live:80/deivison67/sousa67/1385150
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",THE OA 1 A 2 TEMP 24Hs
+http://x90.live:80/deivison67/sousa67/53247
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",THE TICK  1 A 2 TEMP  24Hs
+http://x90.live:80/deivison67/sousa67/53248
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",THE UMBRELLA ACADEMY 24Hs
+http://x90.live:80/deivison67/sousa67/53249
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",TIMELESS 1 A 2 TEMP 24Hs
+http://x90.live:80/deivison67/sousa67/53250
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",VELOZES E FURIOSOS
+http://x90.live:80/deivison67/sousa67/1385360
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",WESTWORLD 1 A 2 TEMP  24Hs
+http://x90.live:80/deivison67/sousa67/53251
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",Young Sheldon
+http://x90.live:80/deivison67/sousa67/1386099
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",[24] Dois Homens e Meio
+http://x90.live:80/deivison67/sousa67/137143
+#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",[24] THE BIG BANG THEORY
+http://x90.live:80/deivison67/sousa67/134204
+
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",A GRANDE FAMÍLIA  1 TEMP 24Hs
+http://x90.live:80/deivison67/sousa67/52329
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",ALF O TEIMOSO 24Hs
+http://x90.live:80/deivison67/sousa67/51473
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",ALÉM DA IMAGINAÇÃO  24Hs
+http://x90.live:80/deivison67/sousa67/51472
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",BLACK KAMEN RIDER 24Hs
+http://x90.live:80/deivison67/sousa67/52832
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",CARGA PESADA  (2003-2007) 24Hs
+http://x90.live:80/deivison67/sousa67/51474
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",CASTELO RÁ TIM BUMM 24Hs
+http://x90.live:80/deivison67/sousa67/51482
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",Chaves
+http://x90.live:80/deivison67/sousa67/153871
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",CHAVES 24H
+http://x90.live:80/deivison67/sousa67/50533
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",CIDADE DOS HOMENS 24Hs
+http://x90.live:80/deivison67/sousa67/51475
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",EFEITO CARBONARO 24 Hs
+http://x90.live:80/deivison67/sousa67/52830
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",ENCRENCA 24 Hs
+http://x90.live:80/deivison67/sousa67/52908
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",Eu a Patroa e as Crianças 24hs
+http://x90.live:80/deivison67/sousa67/153870
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",EU A PATROA E AS CRIANÇAS TEMP 1 A 3  24Hs
+http://x90.live:80/deivison67/sousa67/52330
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",EU A PATROA E AS CRIANÇAS TEMP 4 A 5 24Hs
+http://x90.live:80/deivison67/sousa67/52331
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",FAMÍLIA DINOSSAURO 24Hs
+http://x90.live:80/deivison67/sousa67/51483
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",FLASHMAN 24Hs
+http://x90.live:80/deivison67/sousa67/52831
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",Jaspion
+http://x90.live:80/deivison67/sousa67/153869
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",JIBAN 24Hs
+http://x90.live:80/deivison67/sousa67/52834
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",JIRAYA 24Hs
+http://x90.live:80/deivison67/sousa67/52833
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",KIKO E SUA TURMA 24 Hs
+http://x90.live:80/deivison67/sousa67/52937
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",LARGADOS E PELADOS TEMP 1 A 3  24Hs
+http://x90.live:80/deivison67/sousa67/52332
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",MACGYVER TEMP 1 A 3 24Hs
+http://x90.live:80/deivison67/sousa67/51486
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",MACGYVER TEMP 4 A 7 24Hs
+http://x90.live:80/deivison67/sousa67/51487
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",MR BEANS
+http://x90.live:80/deivison67/sousa67/153868
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",OPERAÇÃO DE RISCO 24 Hs
+http://x90.live:80/deivison67/sousa67/52909
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",OS BARBIXAS
+http://x90.live:80/deivison67/sousa67/154086
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",Os Busbys + 5
+http://x90.live:80/deivison67/sousa67/1385231
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",PEGADINHA TONINHO TORNADO
+http://x90.live:80/deivison67/sousa67/320161
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",PEGADINHAS JOAO KLEBER
+http://x90.live:80/deivison67/sousa67/154909
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",POLICIA 24 HS
+http://x90.live:80/deivison67/sousa67/52829
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",PRESENÇA DE ANITA 24Hs
+http://x90.live:80/deivison67/sousa67/51476
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",PUNKY A LEVADA DA BRECA 24Hs
+http://x90.live:80/deivison67/sousa67/51477
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",PÂNICO 24Hs
+http://x90.live:80/deivison67/sousa67/52870
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",SAI DE BAIXO TEMP 1 A 2 24Hs
+http://x90.live:80/deivison67/sousa67/52451
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",SAI DE BAIXO TEMP 3 A 4 24Hs
+http://x90.live:80/deivison67/sousa67/52452
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",TODO MUNDO ODEIA O CRIS TEMP 1 A 2 24Hs
+http://x90.live:80/deivison67/sousa67/52381
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",TODO MUNDO ODEIA O CRIS TEMP 3 A 4 24Hs
+http://x90.live:80/deivison67/sousa67/52382
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",ULTRAMAN HAYATA 24Hs
+http://x90.live:80/deivison67/sousa67/52836
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",UM MALUCO NO PEDAÇO - 24 horas
+http://x90.live:80/deivison67/sousa67/80345
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",VAI QUE COLA 24hrs
+http://x90.live:80/deivison67/sousa67/132307
+#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",VAI QUE COLA TEMP 1 A 3 24Hs
+http://x90.live:80/deivison67/sousa67/52383
