@@ -1538,24 +1538,18 @@ http://x90.live:80/deivison67/sousa67/130579
 http://x90.live:80/deivison67/sousa67/130578
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD
 http://x90.live:80/deivison67/sousa67/83053
-#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD²
-http://x90.live:80/deivison67/sousa67/83123
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS - FHD
 http://x90.live:80/deivison67/sousa67/130581
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS - HD
 http://x90.live:80/deivison67/sousa67/130580
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS - SD
 http://x90.live:80/deivison67/sousa67/83045
-#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS - SD²
-http://x90.live:80/deivison67/sousa67/83122
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS - FHD
 http://x90.live:80/deivison67/sousa67/130583
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS - HD
 http://x90.live:80/deivison67/sousa67/130582
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS - SD
 http://x90.live:80/deivison67/sousa67/83046
-#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS - SD²
-http://x90.live:80/deivison67/sousa67/83121
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA TAUBATE - FHD
 http://x90.live:80/deivison67/sousa67/105058
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VANGUARDA TAUBATE - HD
@@ -1570,8 +1564,6 @@ http://x90.live:80/deivison67/sousa67/83048
 http://x90.live:80/deivison67/sousa67/104924
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES - SD
 http://x90.live:80/deivison67/sousa67/83047
-#EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES - SD²
-http://x90.live:80/deivison67/sousa67/104923
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",GLOBO TV VERDES MARES FORTALEZA  - FHD²
 http://x90.live:80/deivison67/sousa67/95330
 #EXTINF:0 tvg-id="ext" group-title="GLOBO",ZOOMOO - SD
@@ -1873,31 +1865,6 @@ http://x90.live:80/deivison67/sousa67/138430
 #EXTINF:0 tvg-id="ext" group-title="ELEVEN SPORTS ",ELEVEN SPORTS 6 HD
 http://x90.live:80/deivison67/sousa67/138431
 
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| 01
-http://x90.live:80/deivison67/sousa67/141177
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Boston Celtics
-http://x90.live:80/deivison67/sousa67/142165
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Charlotte Hornets
-http://x90.live:80/deivison67/sousa67/142166
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Chicago Bulls
-http://x90.live:80/deivison67/sousa67/142167
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Cleveland Cavaliers
-http://x90.live:80/deivison67/sousa67/142168
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Dallas Mavericks
-http://x90.live:80/deivison67/sousa67/142169
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA| Denver Nuggets
-http://x90.live:80/deivison67/sousa67/142170
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 1 HD
-http://x90.live:80/deivison67/sousa67/138758311
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 2 HD
-http://x90.live:80/deivison67/sousa67/138758312
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 3 HD
-http://x90.live:80/deivison67/sousa67/138758313
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 5 HD
-http://x90.live:80/deivison67/sousa67/138758315
-#EXTINF:0 tvg-id="ext" group-title="NBA League Pass",NBA League Pass 6 HD
-http://x90.live:80/deivison67/sousa67/138758316
-
 #EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 1 24Hs
 http://x90.live:80/deivison67/sousa67/51478
 #EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 2 24Hs
@@ -2184,42 +2151,6 @@ http://x90.live:80/deivison67/sousa67/109187
 http://x90.live:80/deivison67/sousa67/13874224
 #EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",LA CASA DE PAPEL 1 A 2 TEMP 24Hs
 http://x90.live:80/deivison67/sousa67/53176
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",NARCOS S01
-http://x90.live:80/deivison67/sousa67/154081
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",O JUSTICEIRO 1 A 2 TEMP 24Hs
-http://x90.live:80/deivison67/sousa67/53177
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",Peaky Blinders 6T
-http://x90.live:80/deivison67/sousa67/1385234
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",RIVARDALE 1 A 3 TEMP 24Hs
-http://x90.live:80/deivison67/sousa67/53181
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",SHODOW HUNTERS 1 A 2 TEMP 24Hs
-http://x90.live:80/deivison67/sousa67/53245
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",SIREN 1 A 2 TEMP 24Hs
-http://x90.live:80/deivison67/sousa67/53246
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",SOBRENATURAL S14
-http://x90.live:80/deivison67/sousa67/153867
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",SUITS 9T
-http://x90.live:80/deivison67/sousa67/13872652
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",THE BOYS 3T
-http://x90.live:80/deivison67/sousa67/1385150
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",THE OA 1 A 2 TEMP 24Hs
-http://x90.live:80/deivison67/sousa67/53247
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",THE TICK  1 A 2 TEMP  24Hs
-http://x90.live:80/deivison67/sousa67/53248
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",THE UMBRELLA ACADEMY 24Hs
-http://x90.live:80/deivison67/sousa67/53249
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",TIMELESS 1 A 2 TEMP 24Hs
-http://x90.live:80/deivison67/sousa67/53250
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",VELOZES E FURIOSOS
-http://x90.live:80/deivison67/sousa67/1385360
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",WESTWORLD 1 A 2 TEMP  24Hs
-http://x90.live:80/deivison67/sousa67/53251
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",Young Sheldon
-http://x90.live:80/deivison67/sousa67/1386099
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",[24] Dois Homens e Meio
-http://x90.live:80/deivison67/sousa67/137143
-#EXTINF:0 tvg-id="ext" group-title="SERIES 24HRS",[24] THE BIG BANG THEORY
-http://x90.live:80/deivison67/sousa67/134204
 
 #EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",A GRANDE FAMÍLIA  1 TEMP 24Hs
 http://x90.live:80/deivison67/sousa67/52329
@@ -2295,11 +2226,5 @@ http://x90.live:80/deivison67/sousa67/52452
 http://x90.live:80/deivison67/sousa67/52381
 #EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",TODO MUNDO ODEIA O CRIS TEMP 3 A 4 24Hs
 http://x90.live:80/deivison67/sousa67/52382
-#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",ULTRAMAN HAYATA 24Hs
-http://x90.live:80/deivison67/sousa67/52836
 #EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",UM MALUCO NO PEDAÇO - 24 horas
 http://x90.live:80/deivison67/sousa67/80345
-#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",VAI QUE COLA 24hrs
-http://x90.live:80/deivison67/sousa67/132307
-#EXTINF:0 tvg-id="ext" group-title="PROGRAMAS DE TV 24 HRS",VAI QUE COLA TEMP 1 A 3 24Hs
-http://x90.live:80/deivison67/sousa67/52383
