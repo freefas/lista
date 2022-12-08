@@ -1,0 +1,2196 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Globo 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76697.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Inter TV Cabugi HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40939.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo SP FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43694.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo RJ FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43688.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",SBT 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76695.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT SP FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43760.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",RedeTV! FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43751.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",RECORD 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76688.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Band 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79274.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band SP FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43614.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",VIVA FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",TV Aparecida HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43787.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Tv Pai Eterno FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/78422.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 1 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43764.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119121.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cartoon Network FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43622.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Nickelodeon FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43718.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Discovery Kids FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43638.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Nick Junior FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43717.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Zoomoo HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39473.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Gloob FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43697.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Animal Planet 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76689.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Cartoon Network 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76691.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Combate 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76694.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Discovery Channel 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76690.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",ESPN 4 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119125.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",ESPN 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/126474.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Megapix 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76696.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Multishow 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76701.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",National Geographics 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77087.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Premiere Clubes 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76687.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",SporTV 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77088.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Star Channel 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76699.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Telecine Action 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/126472.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Telecine Pipoca 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/126473.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Telecine Premium 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",TNT 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76692.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",TNT Series 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76693.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Universal Channel 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/126471.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Viva 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/126470.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Comedy Central 4K
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/210453.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",A&E +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",A&E +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",A&E FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43606.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",A&E FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43479.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",A&E HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40676.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",AMC +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",AMC FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85482.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",AMC FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42134.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Arte 1 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",AXN +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/46.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",AXN +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",AXN FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43608.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Axn FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/468.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",AXN HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40678.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",AXN HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43840.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",CineCanal +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/83.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",CineCanal FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43770.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",CineCanal HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38458.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Canais: Filmes e Series",CineCanal SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79907.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Cinemax +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/57.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Cinemax FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43624.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Cinemax HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/488.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Cinemax HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40919.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Canais: Filmes e Series",Cinemax SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79902.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Comedy Central +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/60.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Comedy Central FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43627.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Comedy Central HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40682.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Comedy Central HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38606.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Canais: Filmes e Series",Comedy Central SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79903.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Film & Arts +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/83941.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Film&Arts +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/80.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Fox +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",FX +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",FX FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43661.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",FX HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40924.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",FX HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38617.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Megapix +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/108.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Megapix FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43711.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Megapix FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42154.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Megapix HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/46737.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Megapix HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/559.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Megapix SD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/46811.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Paramount +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/118.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Paramount FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Paramount HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40709.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Paramount HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38498.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Sony +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/138.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Sony FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43620.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Sony HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40710.m3u8
+#EXTINF:0 tvg-id="set" group-title="Canais: Filmes e Series",Sony SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79909.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Space +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/139.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Space FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43763.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Space HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/1079.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Canais: Filmes e Series",Space SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79908.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Star Channel +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/44807.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Star Channel FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43767.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Star Channel HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40695.m3u8
+#EXTINF:0 tvg-id="otr" group-title="Canais: Filmes e Series",Star Channel SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79906.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Studio Universal +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/143.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Studio Universal FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43771.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Studio Universal HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38526.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Canais: Filmes e Series",Studio Universal SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82622.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",SyFy +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/144.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",SyFy FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43772.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",SyFy HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38437.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TBS +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/145.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TBS FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43773.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TBS HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38528.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Canais: Filmes e Series",TBS SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82617.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TCM +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/146.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TCM HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38529.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/154.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/30.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43781.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/580.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208006.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/581.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT Series +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/155.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT Series +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/31.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT Series FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43782.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT Series HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38439.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",TNT Séries HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40711.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Universal +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/32.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais: Filmes e Series",Universal Channel FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43797.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Universal TV +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/159.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Universal TV HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38540.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Warner Channel +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/163.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Warner Channel HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38542.m3u8
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Canais: Filmes e Series",Warner Channel SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82616.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Warner FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43801.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Filmes e Series",Warner HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40712.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Band Sports +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/51.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Band Sports HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208585.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Band Sports HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40679.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Band Sports FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43615.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Band Sports FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/473.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Combate +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Combate +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/59.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Combate HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208602.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Combate FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43626.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Combate FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/489.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/200022.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119127.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119112.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 2 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 2 +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 2 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119119.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 2 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/105055.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 2 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119113.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 3 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119126.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 3 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119120.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 3 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119115.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 3 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119114.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 4 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119131.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 4 +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119129.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 4 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Espn 4 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119118.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 4 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN 4 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119124.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN Extra +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN Extra FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",ESPN Extra HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119111.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Fox Sports 2 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/200021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Fox Sports 2 +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/12.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Fox Sports 2 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43659.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Fox Sports 2 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/523.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Fox Sports 2 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40699.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 1 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/142.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 1 +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/27.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 1 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40789.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 1 FHD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38572.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV Plus 4K Copa¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/211104.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV Plus 4K Copa²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/211857.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Sportv 2 +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/25.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 2 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Sportv 2 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/44392.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 2 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43765.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Sportv 2 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/1075.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Sportv 3 +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/26.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 3 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/141.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTV 3 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/44393.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",SporTv 3 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43766.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Sportv 3 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/1074.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Woohoo +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/164.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes",Woohoo FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43802.m3u8
+
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Canais: Esportes | PPV",Bundesliga 1
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/210578.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",DAZN 1 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43632.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",DAZN 1 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38578.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",DAZN 2 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43633.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Dazn 2 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77287.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",DAZN 3 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43634.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",DAZN 4 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43635.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Dazn 5 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77284.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Dazn 6 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77285.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Dazn 7 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77286.m3u8
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 1
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82396.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 10
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82397.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Eleven Sports 11
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82406.m3u8
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 2
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82398.m3u8
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 3
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82399.m3u8
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 4
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82400.m3u8
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 5
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82401.m3u8
+#EXTINF:0 tvg-id="elevensports6.pt" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 6
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82402.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 7
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82403.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 8
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82404.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",ELEVEN SPORTS 9
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82405.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Estádio TNT Sports +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/5813.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Estádio TNT Sports 2 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38456.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Estádio TNT Sports 3 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38455.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Estádio TNT Sports 3 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39451.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Estádio TNT Sports HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43652.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Formula 1 TV HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85490.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Furacão Live HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/209380.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Furacão Live HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43660.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Furacão Live HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86986.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 1 HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208001.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 1 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79731.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 1 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47862.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 2 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208002.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 2 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 3 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208003.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 3 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47864.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 4 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208004.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 4 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47865.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO Max 5 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208005.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO MAX 5 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79763.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO MAX 6 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/207999.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",HBO MAX 7 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Liga Futsal 2 HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85184.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",LNF Futsal TV 01
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85183.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Prime Video 01
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82028.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Prime Video 02
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82029.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Prime Video 03
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82031.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Prime Video 04
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82032.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (1) HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47733.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (1) HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47811.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (2) HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47875.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (2) HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77101.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (3) HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47876.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (4) HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77288.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (5) HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77289.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (6) HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77290.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",Star + (7) HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77291.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Esportes | PPV",TV Nsports 1 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86345.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Agro+ FHD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/84555.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",AgroBrasil TV HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/84556.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Arte 1 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42135.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Arte 1 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40917.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Canal do Boi HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/84557.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Canal Rural HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/84558.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Chef TV FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43623.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Curta SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79905.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Curta! +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/54.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Curta! HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40920.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Curta! HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38603.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",E! +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/74.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",E! FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38611.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",E! HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40921.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Fish TV FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43656.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Fish TV HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38614.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",FishTV +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/81.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Food Network FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43657.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Food Network HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40923.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Food Network HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38615.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",GNT +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/92.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",GNT +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",GNT FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43699.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",GNT HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38618.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Lifetime +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/105.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Lifetime HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40926.m3u8
+#EXTINF:0 tvg-id="+globosat.br" group-title="Canais: Variedades",Mais Globosat +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/107.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Mais na Tela FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77325.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",NHK +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/114.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",NHK HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208453.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",OFF +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",OFF FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43719.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Off HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Travel Box Brazil HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40916.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",TruTV FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43784.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",TruTV HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40928.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Viva +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/162.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Viva +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/33.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Variedades",Viva HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/44825.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Animal Planet +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/44.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Animal Planet FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43607.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Animal Planet FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/466.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Animal Planet HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40677.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Animal Planet HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38447.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Canais: Documentarios",Animal Planet SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79901.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Channel +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/64.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Channel +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Channel FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43636.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Channel FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42142.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Channel HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40683.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Channel HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38849.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Home & Health +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/65.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Home & Health +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/7.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Home & Health FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43637.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Home & Health FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42143.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Home & Health HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40684.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Home & Health HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38450.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Science +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/67.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Science FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43639.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Science FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42146.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Science HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40687.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Science HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38451.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Theater +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/68.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Theater FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43640.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Theater FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42147.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Theater HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40688.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Theater HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38608.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Turbo +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/69.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Turbo +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Turbo FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43641.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Turbo FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42148.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Turbo HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40689.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery Turbo HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38453.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery World +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/70.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery World FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42149.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Discovery World HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38609.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",H2 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/93.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",H2 +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/15.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",H2 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38475.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",H2 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40703.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",HGTV +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/102.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",HGTV HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40701.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",HGTV HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38485.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",History Channel +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/103.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",History Channel +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/18.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais: Documentarios",History Channel FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43708.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",History Channel HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40702.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",History Channel HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38486.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",ID Investigação Discovery +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/104.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",ID Investigação Discovery FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43709.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",ID Investigação Discovery FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42144.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",ID Investigação Discovery HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40685.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",ID Investigação Discovery HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38487.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Love Nature +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/106.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Mais na Tela HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38488.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Mais na Tela SD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77299.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",National Geographic +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/111.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",National Geographic +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/19.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",National Geographic FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43716.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",National Geographic HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40706.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",National Geographic HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38495.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Smithsonian +FHD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/137.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Smithsonian +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",Smithsonian HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79271.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",TLC +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/153.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",TLC FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45170.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Documentarios",TLC HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45171.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Canais: Documentarios",TLC SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82618.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Baby HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Baby HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/470.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cartoon Network +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/56.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cartoon Network FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/477.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cartoon Network HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40681.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cartoonito +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/53.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cartoonito FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43618.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cartoonito HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40680.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cartoonito HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/475.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Cine Desenhos+
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/168.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Discovery Kids +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/66.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Discovery Kids FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42145.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Discovery Kids HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40686.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Discovery Kids HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38452.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Canais: Infantil",Discovery Kids SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79904.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Disney Channel  +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/71.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Disney Channel +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Disney Channel FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43642.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Disney Channel FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42150.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Disney Channel HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40690.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Disney Channel HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38454.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Gloob +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/91.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Gloob HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/542.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Gloobinho FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43698.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Gloobinho HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/543.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Nick Junior +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/115.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Nick Junior HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40708.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Nick Junior HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38496.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Canais: Infantil",Nick Junior SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Nickelodeon +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Nickelodeon HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40707.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Nickelodeon HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38497.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Playkids HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/83940.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Ratimbum +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/126.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Tooncast +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/156.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Tooncast FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43783.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Tooncast HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38537.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Infantil",Zoomoo FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43803.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Bahia HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39483.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Brasilia HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86703.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Brasília HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43330.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Campinas FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43610.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Campinas HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39484.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Curitiba HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43611.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40670.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Maceio HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86202.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Minas HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45405.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band PR +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/49.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band RJ HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/78322.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band RJ HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38544.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band RS HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86704.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band RS HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79733.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band Sergipe HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39486.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band SP +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/50.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band SP +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Band SP FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43329.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Canal Brasil HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Canal Brasil HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208304.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Futura +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40485.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Globo TV Subae HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88005.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Alagoas HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87377.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Bahia HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43731.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Belem HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43732.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Brasilia HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43733.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Campinas HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43734.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Campinas HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38507.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record DF HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38509.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Minas +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38511.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Minas HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43737.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Parana HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43739.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record RJ FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43740.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais Abertos",Record RJ HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39303.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Santa Catarina HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43742.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record SC HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43743.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record SP +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record SP +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record SP FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43748.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record SP FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38571.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV SP HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43745.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Amazonas HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38517.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Belém HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40934.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Belém HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43333.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Brasilia HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40932.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Goiânia HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40933.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Goiânia HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43334.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Itapoan HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77318.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Manaus HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40935.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV Minas HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40931.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV RJ HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40930.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV RS HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43741.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV RS HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40768.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV SP HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40716.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record TV SP HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40769.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Record Uberlandia HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43744.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Rede Brasil HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79828.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",RedeTV! +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/131.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Redetv! +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/22.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",RedeTV! HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40714.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",RedeTV! HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38518.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Ric TV - Record Curitiba +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/132.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",RPC Paranavai HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77224.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais Abertos",SBT +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/23.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT BSB HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43752.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT Goias HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38519.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40715.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT MG HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38577.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT Parana HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43755.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT Paraná +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/129.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Sbt Paraná FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39481.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT RJ FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43756.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT RJ HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38521.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT RS HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43757.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT RS HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43758.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT SP +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/134.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT SP HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38523.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",SBT SP SD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38524.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Sic International HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86220.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Terra Viva HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43780.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais Abertos",TV Brasil +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/5814.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",TV Brasil HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43788.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",TV Cultura +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/61.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",TV Cultura HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/208455.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",TV Cultura HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40673.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",TV Gazeta HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86346.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Tv Justiça HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/46439.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",TV RA TIM BUM HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43790.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",Tv Senado HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/46438.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Abertos",TV Diario Fortaleza HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/212410.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Band News +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/48.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Band News FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43613.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Band News FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42136.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Band News HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40918.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",CNN +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",CNN Brasil +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/58.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",CNN Brasil FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43625.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",CNN Brasil HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40672.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",CNN Brasil HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38607.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Euro News HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79764.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Fox News HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43828.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Globo News +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/90.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Globo News FHD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43679.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Globo News FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/534.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Globo News HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82621.m3u8
+#EXTINF:0 tvg-id="Globonews.br" group-title="Canais: Noticias",Globo News SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40925.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Jovem Pan News FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75684.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Jovem Pan News HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75687.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Joven Pan News HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75688.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Joven Pan News HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75686.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Record News +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/127.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Record News FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43738.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Noticias",Record News HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40671.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",BIS +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/52.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",BIS FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43617.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Bis HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38602.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Kpop TV HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/84895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",MTV +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/109.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",MTV +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/34.m3u8
+#EXTINF:0 tvg-id="VH1MegaHits.br" group-title="Canais: Musicas",MTV 00s +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/161.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",MTV 00s +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/35.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",MTV 00s HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77305.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",MTV FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43712.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",MTV HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40704.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",MTV HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38490.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",MTV Live HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77303.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Multishow +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Multishow +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Multishow FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43713.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Multishow HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38491.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Music Box Brazil FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40675.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Music Box Brazil HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38492.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Musicas",Music Top HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/78034.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Brazzers FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40320.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Casa das Brasileirinhas HD 01
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75290.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Casa das Brasileirinhas HD 02
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75291.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Casa das Brasileirinhas HD 03
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75292.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Jasmin TV HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43817.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Mia Khalifa 24 Horas
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37059.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Playboy +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/119.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",PlayBoy FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43818.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",PlayBoy FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40324.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",PlayBoy HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43819.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sex Prive FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43820.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sex Prive HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43821.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sex Prive HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40326.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sex Treme HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40327.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sextreme +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/135.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",SexTreme FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43822.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sexy Hot FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43823.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sexy Hot HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40328.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sexy Hot HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43824.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Sexyhot +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/136.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Teste de Fudelidade Full HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/36355.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Teste de Fudelidade HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/36354.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Teste de Fudelidade HD II
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/36706.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Venus SD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43825.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Venus +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43826.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Venus FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40330.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Venus HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40329.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",Vivid Red HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85297.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XxX 4K GUM+
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/165.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto +
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40331.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto Brazil
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40332.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto Brazilian
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40333.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto Chicks
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40334.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto Gay
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40335.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto Movies
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40336.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto Other
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40337.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto Paradise
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40338.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX Adulto Trans
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40339.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX: Adultos 01
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87464.m3u8
+#EXTINF:0 tvg-id="ext" group-title="XXX: Canais Adultos",XXX: Animes (Hentai)
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/210433.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Cancao Nova +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/55.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Canção Nova HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38604.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",EVANGELIZAR HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43655.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Igreja Mundial FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77316.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Igreja Universal SD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77309.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Impd TV HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47878.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Rede Familia HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77310.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Rede Super SD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77313.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Rede Vida +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Rede Vida HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43336.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",RIT TV HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/207080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",TV Aparecida +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/157.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",TV Gideões HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87016.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Tv Novo Tempo HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42467.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Religiosos",Tv Pai Eterno HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86244.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 2 SD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45754.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 2 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/120.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 2 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38499.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 2 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40731.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 2 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43723.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 2 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42138.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 3 SD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45755.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 3 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/121.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 3 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40732.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 3 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38500.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 3 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43724.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 3 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42139.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 4 SD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/44358.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 4 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 4 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/44357.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 4 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40733.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 4 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38501.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 4 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43725.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 4 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/42140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 5 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 5 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40734.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 5 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38502.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 5 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43726.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 5 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40790.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 6 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/124.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 6 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43727.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 6 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40735.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 6 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38503.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 7 SD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38504.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 7 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40736.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 7 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43728.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere 8 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40737.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere Clubes +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/20.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere Clubes +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/125.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere Clubes HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40730.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere Clubes HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38506.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere Clubes FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43722.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Premiere",Premiere Clubes FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/571.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 1 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39489.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 1 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43628.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 1 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/491.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",CONMEBOL TV 1 SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/493.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 2 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39490.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 2 HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43629.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 2 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/44045.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 3 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39491.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 3 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43630.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",CONMEBOL TV 3 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/495.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",Conmebol TV 4 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43631.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Conmebol TV",CONMEBOL TV 4 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/494.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO 1 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/96.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO 1 +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/17.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO 1 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO 1 HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO 1 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38478.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO 2 +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/94.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO 2 FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43701.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO 2 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38476.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Family +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/95.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Family +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/16.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Family FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43702.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Family HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38477.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Mundi +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/97.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Mundi FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43703.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Mundi HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38479.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Plus +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/98.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Plus FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43704.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Plus HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38480.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Plus*e HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38481.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Pop +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/99.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Pop FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43705.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Pop HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38482.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Signature +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/100.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Signature FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43706.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Signature HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38483.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Xtreme +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/101.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Xtreme FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43707.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: HBO",HBO Xtreme HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38484.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Ação 24hrs
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206033.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Comédia³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39463.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Familia³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39469.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Marvel³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39465.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Oscar³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39467.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Pipoca 2 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39455.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Pipoca 3 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39456.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Pipoca 1 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39459.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Pix
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206032.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Romance³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39468.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Super Lançamentos³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39470.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Terror³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39466.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Western
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/82734.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Cine Western 2
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86222.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Classique TV (Filmes Clássicos)
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/201520.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",Fronteira Movies
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/201521.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine 24 Horas",TV Cine BRPRO
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206030.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine SKY 01 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40793.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine Sky 02 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40794.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine Sky 03 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40795.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine Sky 04 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40796.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine Sky 05 FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40797.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine SKY 06 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38585.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine SKY 07 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38586.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine SKY 08 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38587.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine SKY 09 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38588.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",Cine SKY 10 HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38589.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",SKY PLAY 01¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43601.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",SKY PLAY 02¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43602.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",SKY PLAY 03¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43603.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",SKY PLAY 04¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43604.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Cine Sky",SKY PLAY 05¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43605.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",EPTV +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",EPTV Campinas FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43671.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",EPTV Campinas HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38462.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",EPTV Sul de Minas HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40741.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo  Gazeta Alagoas FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43368.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Asa branca (Caruaru) SD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/211895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Asa branca (Caruaru) HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/211896.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Asa branca (Caruaru) FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43666.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Anhanguera Goiânia HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38641.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Brasilia FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43665.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Brasilia HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38461.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Brasília HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40721.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo EPTV Ribeirao FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43672.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo EPTV Ribeirão HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40937.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Gazeta Alagoas HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206456.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Gazeta Alagoas HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206028.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Integração MG FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43673.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Integração Uberlandia HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206455.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Inter Do Vale FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43674.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Inter TV Costa Branca HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88007.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Inter TV Grande Minas HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77319.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Internacional FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43675.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo InterTV Grande Minas FHD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206457.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo InterTV Grande Minas HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86347.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo InterTV Planície
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Itapetininga HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38466.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Juazeiro Bahia HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206453.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Minas +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43180.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Minas +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45406.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Minas FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43676.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Minas HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40725.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Mirante Maranhão HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43677.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Mirante Sao Luis HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38468.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Nordeste FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43680.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais: Globos",Globo Nordeste HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/535.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Rede Amazônica Parintins HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88001.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Ribeirão Preto HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38821.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Rio Sul FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47749.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Rio Sul HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45407.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo RJ (Região Serrana) FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43689.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo RJ +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43371.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo RJ HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/538.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo RJ HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43369.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo RJ HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38443.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo RJ SD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43370.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Santa Cruz Bahia FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43669.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Santa Cruz Bahia HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43692.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Sergipe HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43693.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo SJ do Rio Preto HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86197.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo SP +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/89.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo SP +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/14.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo SP FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/540.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo SP HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/539.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo SP HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38441.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo Sudoeste Bahia HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86914.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Cabo Branco HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Clube PI HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79116.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Clube Teresina HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77216.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Alvorada do Sul HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/210638.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Integração Uberlândia HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40756.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Mirante Cocais HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88002.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Mirante Imperatriz HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88003.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Oeste HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88004.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Sergipe FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/1071.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Sergipe HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/203062.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Subae HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79119.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Sudoeste HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88006.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Vanguarda dos Campos HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43796.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Rede Amazonica Manaus HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/210634.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Rede Amazonica Porto Velho HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/210635.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Rede Amazônica Boa Vista HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/210636.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Rede Amazônica Rio Branco HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/210637.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo ﻿EPTV Campinas HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40936.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Inter TV Alto Litoral HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40938.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Inter TV dos Vales HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40767.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Inter TV RN SD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38463.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",InterTV Alto Litoral HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38464.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",InterTV RJ Região Serrana HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/1069.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",InterTV Serra Mar SD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38465.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC Blumenau HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75312.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC Blumenau HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38442.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC Chapecó FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39488.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC Florianopolis FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43682.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC Florianópolis HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40764.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC Florianópolis HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/531.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC Santa Catarina HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43681.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC TV Chapeco FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75205.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC TV Joinville FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86227.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC TV Joinville HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/92491.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",NSC TV Joinville HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86226.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Caxias FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43684.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Caxias HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88172.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Passo Fundo FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75203.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Passo Fundo HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75202.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Pelotas FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77218.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Pelotas HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43685.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Porto Alegre +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/46729.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Rbs Porto Alegre FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/536.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Porto Alegre HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43686.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Porto Alegre HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40719.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Porto Alegre HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38470.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Santa Maria HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43687.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RBS Santa Maria HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38823.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Rede Amazonica HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43747.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Rede Amazonica FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43749.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Cascavel HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77091.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Curitiba +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/133.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Curitiba +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/36.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Curitiba FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43691.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Curitiba HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40758.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais: Globos",RPC Curitiba HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38444.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Foz do Iguaçu FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43690.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Foz do Iguaçu HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77217.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Guarapuava HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87467.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Maringá FHD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86282.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Ponta Grossa HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88100.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",RPC Ponta Grossa HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87999.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV  Sao Francisco HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77092.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Tv Anhaguera Catalao HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43785.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Anhanguera Anapolis FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/75215.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Anhanguera Anapolis HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43786.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Anhanguera Goiânia HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40757.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Anhanguera Itumbiara HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43793.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Bahia FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38472.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Bahia HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40728.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais: Globos",TV Bahia HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/527.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Bahia SD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Centro-américa Cuiabá HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40738.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo TV Diario HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38473.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Gazeta ES HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206029.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Tv Gazeta FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/78423.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Canais: Globos",TV Gazeta HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40726.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Gazeta Sul ES HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38474.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Globo Nordeste HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40724.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Integração Juiz de Fora FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87394.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Liberal Belém HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86722.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Liberal Belém HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40755.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Liberal Belém HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86721.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Morena Campo Grande HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40751.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Tv Morena HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40180.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV TEM Bauru HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40750.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV TEM Bauru HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77317.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Tem Bauru SD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43792.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Tem Sorocaba HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43794.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Tem Sorocaba HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40729.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV TEM São José do Rio Preto HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40748.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Tribuba +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/158.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Tribuna +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Tribuna HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40746.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Tribuna Santos FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43795.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Vanguarda FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43696.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Tv Vanguarda S.J dos Campos HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39482.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Verdes Mares Cariri HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40745.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Verdes Mares Fortaleza HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40744.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Vanguarda São José dos Campos HD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40743.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Verdes Mares HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/541.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Verdes Mares Fortaleza SD²
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/212411.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Globos",TV Verdes Mares Fortaleza FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/212412.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Action +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/147.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Action FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43774.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Action HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38530.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Cult +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/148.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Cult FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43775.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Cult HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38531.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Fun +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/149.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Fun FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43776.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Fun HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38532.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Pipoca +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/150.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Pipoca +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/28.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Pipoca FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43777.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Pipoca HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38533.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Premium +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/151.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Premium +SD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/29.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Premium FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43778.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Premium HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38534.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Touch +HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/152.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Touch FHD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43779.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Touch HD¹
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/45769.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Telecine",Telecine Touch HD³
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38438.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA 1
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85175.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA 2
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85176.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA 3
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85177.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA 4
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85178.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA 5
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85179.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA 6
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85180.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA 7
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85181.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA 8
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85182.m3u8
+#EXTINF:0 tvg-id="NBA.blt" group-title="Canais: NBA",NBA TV HD (PT)
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85821.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: NBA",NBA TV HD (US)
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85822.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",A vida moderna de Rocko
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88518.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",As  Pistas de Blue
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88520.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",As Aventuras de Jackie Chan
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88544.m3u8
+#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Canais: Pluto TV",Babyfirst
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88508.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",BET Being Mary Jane
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88546.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",BET Pluto TV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88528.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Bob Esponja Calça Quadrada
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88567.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",CBS News
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88564.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Comedy Central Pluto TV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88506.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Comedy Central South Park
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88545.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Death Note
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88570.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Diff’rent Strokes Arnold
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88559.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Euronews Português
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88554.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",FailArmy
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88510.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Filmes Suspense
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88499.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Canais: Pluto TV",FUEL TV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88552.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Guia de Canais
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88524.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Jeannie é um Gênio
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88543.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Jovem Pan Pluto TV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88533.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Kenan & Kel
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88529.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MasterChef
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88542.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Mestres do Ilusionismo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88571.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV Are you the One?
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88516.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV Biggest Pop
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88534.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV Catfish
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88572.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV Com o Ex
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88555.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV Jovens e Mães
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88562.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV MIAW Pluto TV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88573.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV Pluto TV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88492.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV Shore
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88569.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",MTV Spankin' New
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88535.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Naruto
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88517.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Nick Clássico
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88498.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Nick Jr. Club
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88496.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Nick Teen
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88547.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Nickelodeon iCarly
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88563.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Nosey Escândalos
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88521.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",O Encantador de Cães
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88550.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",O Reino Infantil
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88515.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Os Três Patetas
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88502.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Paramount+ Apresenta
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88531.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",People are Awesome
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88511.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Adrenalina Freezone
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88556.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Anime
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88493.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Anime Ação
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88537.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Canal UOL
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88565.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Cine Clássicos
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88523.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Cine Comédia
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88487.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Cine Comédia Romântica
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88568.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Cine Drama
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88488.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Cine Família
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88500.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Cine Romance
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88501.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Cine Sucessos
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88485.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Cine Terror
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88489.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Comédia
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88530.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Documentários
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88503.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Estilo de Vida
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88548.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Fashionstream
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88513.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Ficção Científica
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88522.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Filmes Ação
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88486.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Filmes Nacionais
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88514.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Geek e Tech
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88540.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Investigação
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88504.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Junior
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88495.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Karaokê por Stingray
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88539.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Kids
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88497.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Minha Obsessão Favorita
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88553.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Mistérios
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88525.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Natureza
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88494.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Novelas
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88509.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Orgulho LGBTQIA+
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88541.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Paisagens por Stingray
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88536.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Record News
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88549.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Retrô
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88491.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Shows por Stingray
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88538.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Séries
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88490.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Turbo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88532.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pluto TV Vida Real
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88505.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Porta dos Fundos
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88507.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Pronto-socorro: Histórias De Emergência
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88557.m3u8
+#EXTINF:0 tvg-id="RecordTV.uk" group-title="Canais: Pluto TV",Record TV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88558.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Rugrats
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88560.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Schitt's Creek
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88561.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Tastemade
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88526.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",The Night Shift Plantão Noturno
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88566.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",The Pet Collective
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88512.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Tokusato
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88527.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Turma da Mônica
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88519.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Pluto TV",Younger
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88551.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",3 Palavrinhas
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/14504.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",A Casa do Mickey Mouse
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87886.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",O ETeimoso 1ª TP
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47465.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",AnimeTV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87015.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Apenas um Show
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37697.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",As Aventuras de Jackie Chan
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37778.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",As Tartarugas Ninja
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86917.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",As Trapalhadas de Flapjack
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88630.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Batman: A Série Animada
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/20869.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Ben 10
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37781.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Beyblade
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37991.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Beyblade Metal Fusion
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37999.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Bibo Pai & Bob Filho
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37777.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Billy e Mandy
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37782.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Black Kamen Rider
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37790.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Bob Esponja
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/22583.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Bob Zoom
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/15053.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Bojack Horseman
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/27863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Boruto: Naruto Next Generations
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/41773.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Caillou
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38226.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Capitão Planeta
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37792.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Cavalo de Fogo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37793.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Chaves Em Desenho Animado
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/14501.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Clarencio o Otimista
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37791.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Coragem: O Cão Covarde
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/33229.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Corrida Maluca
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/20436.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Daniel Tigre
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38390.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Desenhos Bíblicos
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37893.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Digimon Adventure
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87463.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",a aventureira
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/14514.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Dragon Ball Z
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87462.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Dudu e Edu
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37892.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",DuckTales: Os Caçadores de Aventuras
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38038.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Família Dinossauro
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37992.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Galinha Pintadinha
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37099.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Gospel Cartoon
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86223.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",He-Man
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38040.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Hora de Aventura
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87375.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Jambo e Ruivão
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38214.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Jaspion
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38215.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Krypto: O Supercão
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37869.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Luluzinha
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38216.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Manda Chuva
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38085.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Mortal Kombat
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206409.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Mundo Bita
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/14505.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Naruto
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/46732.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",O Espetacular Homem-Aranha
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/36448.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",O Fantástico Mundo de Bobby
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/34723.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",O Incrível Hunk (Desenho)
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/22585.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",O Maskara
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38041.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",O Mundo de Gumball
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38218.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",OS Cavaleiros do Zodiaco: Alma de Ouro
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37784.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Os Cavaleiros do Zodíaco
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/22582.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Os Jetsons
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/86221.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Os Jovens Titãs
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38227.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Os Pinguins de Madagascar
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/39299.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Os Simpsons
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/20130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Patrulha Canina
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/41890.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Pepe Legal
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38042.m3u8
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Canais: Desenhos 24h",Peppa Pig
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Pernalonga
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/24590.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Pica Pau
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/14500.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Pocoyo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43386.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Popeye
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38052.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Rambo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/206034.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Rick & Morty
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/22858.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Scooby Doo: Cadê Você?
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38073.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Show da Luna
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38391.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Sitio do Picapau Amarelo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43389.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",South Park
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/87461.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Steven Universo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/27320.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Super Choque
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38075.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Super Onze
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/23694.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",ThunderCats
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38074.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Tico e Teco
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37993.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Timão e Pumba
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/21099.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Tom e Jerry
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/22584.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Turma da Mônica
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38072.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",UltraMan
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38076.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Desenhos 24h",Velozes e Furiosos: Espiões do Asfalto
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/37919.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",A Grande Família - Parte 1
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43413.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Aventura Selvagem
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43378.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Breaking Bad: A Química do Mal
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/20868.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Canal KondZilla
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43393.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Carga Pesada
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43379.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Chapolin Colorado
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/22581.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Chaves
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/14502.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Chaves HD
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/88288.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Cidade dos Homens
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43380.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Delegado Da Cunha
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/85855.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Dois Homens e Meio
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43372.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Edu Primitivo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43381.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",a Patroa e as Crianças
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/14503.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Friends
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/15993.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Funk Antigo
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43382.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Kenan & Kel
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/25902.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Lady Night
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77562.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",MasterChef Brasil [1]
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/79146.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Mazzaropi
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/36705.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Miraculous: As Aventuras de Ladybug
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/20434.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Mr. Bean
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/21664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Nego Di
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43383.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Operação Fronteira: America do Sul
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/80478.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Patati Patata
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/38051.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Pesadelo Na Cozinha
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/77720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Pesca Mortal
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43385.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Policia 24 Horas
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43377.m3u8
+#EXTINF:0 tvg-id="Panico.mx" group-title="Canais: Series 24h",Pânico
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43384.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Reynold
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43387.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Silvio Santos
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43388.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Smallville: As Aventuras do Superboy
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43376.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Sobrenatural
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/20435.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Todo Mundo Odeia o Chris
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/15811.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Turma do Gueto
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43390.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Um Maluco no Pedaço
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/18823.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Vai que Cola
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/47748.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Você na TV
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43391.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais: Series 24h",Você Sabia ?
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43392.m3u8
