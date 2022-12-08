@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Canais: 4K",Globo 4K
-http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76697.m3u8
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/76697
 #EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Inter TV Cabugi HD²
-http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40939.m3u8
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/40939
 #EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo SP FHD¹
-http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43694.m3u8
+http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43694
 #EXTINF:0 tvg-id="ext" group-title="Canais: Globos",Globo RJ FHD¹
 http://ns.bittvgo.com:80/live/muth6e/fpzj7y/43688.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Canais: 4K",SBT 4K
